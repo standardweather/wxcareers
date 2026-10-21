@@ -8,3 +8,6 @@ Every meteorology job in one place (TV, federal, private, aviation, military, ac
 - `.github/workflows/update-and-deploy.yml` runs daily ~6am ET and on manual trigger, commits changed data, deploys to GitHub Pages.
 
 Local preview: `python3 -m http.server 8080 -d site`
+
+## Blog
+Posts are markdown in `blog-src/` (see `blog-src/_TEMPLATE.md`). `python3 scripts/build_blog.py` builds `site/blog/`, `site/blog/feed.xml`, `site/sitemap.xml` and `site/robots.txt`; the workflow runs it before every deploy.
