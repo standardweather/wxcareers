@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T09:35",
- "count": 41,
+ "updated": "2026-10-21T14:06",
+ "count": 42,
  "jobs": [
   {
    "title": "Meteorologist",
@@ -173,6 +173,26 @@
    "sector": "federal"
   },
   {
+   "title": "Meteorologist",
+   "employer": "United States Air Force",
+   "location": "Asheville, NC",
+   "salary": null,
+   "date_posted": "2026-10-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/542748754",
+   "sector": "military"
+  },
+  {
+   "title": "Weekend Morning Meteorologist",
+   "employer": "Forum Communications Company",
+   "location": "Fargo, ND",
+   "salary": null,
+   "date_posted": "2026-10-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/542693329",
+   "sector": "TV"
+  },
+  {
    "title": "Meteorological Data Scientist",
    "employer": "Tomorrow.io",
    "location": "Boston, Massachusetts, United States",
@@ -181,16 +201,6 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8035679003?gh_jid=8035679003",
    "sector": "private"
-  },
-  {
-   "title": "METEOROLOGIST",
-   "employer": "Air Force Civilian Career Training",
-   "location": "Asheville, North Carolina + 1 location(s)",
-   "salary": "Starting at $50,460 Per year (GS 7-9)",
-   "date_posted": "2026-10-13",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/888500300",
-   "sector": "military"
   },
   {
    "title": "Chief Meteorologist",
