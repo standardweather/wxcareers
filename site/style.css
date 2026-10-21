@@ -1,0 +1,9 @@
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,sans-serif;background:#f4f7fb;color:#1b2733}
+header{background:#0b3d66;color:#fff;padding:14px 24px;display:flex;gap:24px;align-items:center}
+header b{font-size:20px}header a{color:#cfe6ff;text-decoration:none}header a.on{color:#fff;font-weight:600}
+main{max-width:1000px;margin:24px auto;padding:0 16px}.bar{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+select,input,button{font:inherit;padding:8px 10px;border:1px solid #c5d2e0;border-radius:6px}button{background:#0b6bcb;color:#fff;border:0;cursor:pointer}
+.job{background:#fff;border:1px solid #dde6ef;border-radius:8px;padding:12px 16px;margin:8px 0;display:flex;justify-content:space-between;gap:12px}
+.job a{font-weight:600;color:#0b4f8a;text-decoration:none}.meta{color:#5b6b7b;font-size:13px}.tag{font-size:12px;padding:2px 8px;border-radius:10px;background:#e3eefa;color:#0b4f8a;white-space:nowrap;height:fit-content}
+.sal{color:#17703a;font-weight:600;font-size:13px}table{width:100%;border-collapse:collapse;background:#fff}td,th{padding:8px;border-bottom:1px solid #e5ecf3;text-align:left}
+.card{background:#fff;border:1px solid #dde6ef;border-radius:8px;padding:18px;margin:12px 0}.tbd{color:#b05a00;font-weight:600}footer{text-align:center;color:#7a8896;font-size:13px;margin:32px}

@@ -1,0 +1,15 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>WxCareers - Jobs</title><link rel=canonical href="https://wxcareers.com/"><meta name=description content="WxCareers: meteorology jobs across TV, federal, private, aviation, military and academic weather, with posted salaries."><meta property=og:site_name content=WxCareers><meta property=og:url content="https://wxcareers.com/"><link rel=stylesheet href=style.css></head><body>
+<header><b>⛅ WxCareers</b><a href=index.html class=on>Jobs</a><a href=salaries.html >Salaries</a><a href=post.html >Post a job</a><a href=newsletter.html >Newsletter</a></header><main>
+<h1>Meteorology jobs</h1><p class=meta id=upd></p>
+<div class=bar><select id=sec><option value="">All sectors</option></select><select id=st><option value="">All states</option></select><input id=q placeholder="Search title or employer"></div>
+<div id=list></div>
+<script>
+let J=[];const $=i=>document.getElementById(i);
+fetch('jobs.json').then(r=>r.json()).then(d=>{J=d.jobs;$('upd').textContent=d.count+' open jobs · updated '+d.updated;
+[...new Set(J.map(j=>j.sector))].sort().forEach(s=>$('sec').add(new Option(s,s)));
+[...new Set(J.map(j=>j.state))].sort().forEach(s=>$('st').add(new Option(s,s)));draw()});
+['sec','st','q'].forEach(i=>$(i).oninput=draw);
+function draw(){const s=$('sec').value,t=$('st').value,q=$('q').value.toLowerCase();
+$('list').innerHTML=J.filter(j=>(!s||j.sector==s)&&(!t||j.state==t)&&(!q||(j.title+j.employer).toLowerCase().includes(q))).map(j=>`<div class=job><div><a href="${j.url}" target=_blank rel=noopener>${j.title}</a><div class=meta>${j.employer} · ${j.location} · ${j.date_posted?'posted '+j.date_posted:'date not listed'} · via ${j.source}</div>${j.salary?`<div class=sal>${j.salary}</div>`:''}</div><span class=tag>${j.sector}</span></div>`).join('')||'<p>No matches.</p>'}
+</script>
+</main><footer>Every meteorology job in one place: TV, federal, private, aviation, military, academic. Listings link to the original posting.</footer></body></html>
