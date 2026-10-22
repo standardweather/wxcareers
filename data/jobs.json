@@ -1,7 +1,160 @@
 {
- "updated": "2026-10-21T14:06",
- "count": 42,
+ "updated": "2026-10-22T14:58+00:00",
+ "count": 46,
  "jobs": [
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
+  {
+   "title": "Weekend Meteorologist",
+   "employer": "WSLS",
+   "location": "Roanoke, VA",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
+   "sector": "TV"
+  },
+  {
+   "title": "Expert Meteorologist",
+   "employer": "Tomorrow Companies Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543804604",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist - WSB TV",
+   "employer": "Cox Media Group Inc",
+   "location": "Atlanta, GA",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543778429",
+   "sector": "TV"
+  },
+  {
+   "title": "Lead Meteorologist",
+   "employer": "National Oceanic and Atmospheric Administration",
+   "location": "Calera, AL",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543763114",
+   "sector": "federal"
+  },
+  {
+   "title": "Morning Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Oklahoma City, OK",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543747015",
+   "sector": "TV"
+  },
+  {
+   "title": "Expert Meteorologist",
+   "employer": "The Tomorrow Companies Inc.",
+   "location": "Boston, MA",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543729256",
+   "sector": "private"
+  },
+  {
+   "title": "Wildfire Meteorologist - Oahu",
+   "employer": "Hawaiian Electric",
+   "location": "Honolulu, HI",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543724636",
+   "sector": "private"
+  },
+  {
+   "title": "Backend Software Engineer, Weather & Aviation",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
+   "sector": "private",
+   "state": "CO"
+  },
+  {
+   "title": "Front-End Software Engineer \u2014 Weather Platforms",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
+   "sector": "private",
+   "state": "CO"
+  },
+  {
+   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
+   "employer": "Spire Global",
+   "location": "Remote - Based in Europe",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
+   "sector": "private",
+   "state": "Remote"
+  },
   {
    "title": "Meteorologist",
    "employer": "TEGNA Inc",
@@ -23,6 +176,16 @@
    "sector": "TV"
   },
   {
+   "title": "Meteorologist (Contract)",
+   "employer": "The Weather Company",
+   "location": "Remote UK",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270411007",
+   "sector": "private"
+  },
+  {
    "title": "Storm Warning Meteorologist",
    "employer": "AccuWeather",
    "location": "Wichita, KS",
@@ -31,26 +194,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/543298603",
    "sector": "private"
-  },
-  {
-   "title": "LT Weather Specialist",
-   "employer": "University of Oklahoma",
-   "location": "Norman, OK",
-   "salary": null,
-   "date_posted": "2026-10-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543242729",
-   "sector": "academic"
-  },
-  {
-   "title": "Meteorologist, News",
-   "employer": "Nexstar",
-   "location": "Utica, NY",
-   "salary": null,
-   "date_posted": "2026-10-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543232715",
-   "sector": "TV"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
@@ -63,16 +206,6 @@
    "sector": "private"
   },
   {
-   "title": "Meteorologist (Contract)",
-   "employer": "The Weather Company",
-   "location": "Birmingham, UK",
-   "salary": null,
-   "date_posted": "2026-10-20",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270411007",
-   "sector": "private"
-  },
-  {
    "title": "Meteorologist, KGTV",
    "employer": "Scripps (KGTV ABC 10)",
    "location": "San Diego, CA",
@@ -80,16 +213,6 @@
    "date_posted": "2026-10-19",
    "source": "Employer careers page",
    "url": "https://scripps.wd115.myworkdayjobs.com/en-US/Scripps_Careers/job/Meteorologist--KGTV_JR036902-1",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Nexstar Media Group",
-   "location": "Lees Summit, MO",
-   "salary": null,
-   "date_posted": "2026-10-19",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543167386",
    "sector": "TV"
   },
   {
@@ -133,66 +256,6 @@
    "sector": "TV"
   },
   {
-   "title": "Part-Time Meteorologist",
-   "employer": "WISH-TV",
-   "location": "Indianapolis, IN",
-   "salary": null,
-   "date_posted": "2026-10-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/542963130",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "WISH-TV",
-   "location": "Indianapolis, IN",
-   "salary": null,
-   "date_posted": "2026-10-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/542963081",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist, Telemundo T47 New York",
-   "employer": "NBCUniversal",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-10-16",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/542780799",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "U.S. Department of Commerce",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-10-16",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/542749972",
-   "sector": "federal"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "United States Air Force",
-   "location": "Asheville, NC",
-   "salary": null,
-   "date_posted": "2026-10-16",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/542748754",
-   "sector": "military"
-  },
-  {
-   "title": "Weekend Morning Meteorologist",
-   "employer": "Forum Communications Company",
-   "location": "Fargo, ND",
-   "salary": null,
-   "date_posted": "2026-10-16",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/542693329",
-   "sector": "TV"
-  },
-  {
    "title": "Meteorological Data Scientist",
    "employer": "Tomorrow.io",
    "location": "Boston, Massachusetts, United States",
@@ -201,6 +264,16 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8035679003?gh_jid=8035679003",
    "sector": "private"
+  },
+  {
+   "title": "METEOROLOGIST",
+   "employer": "Air Force Civilian Career Training",
+   "location": "Asheville, North Carolina + 1 location(s)",
+   "salary": "Starting at $50,460 Per year (GS 7-9)",
+   "date_posted": "2026-10-13",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/888500300",
+   "sector": "military"
   },
   {
    "title": "Chief Meteorologist",
@@ -213,27 +286,6 @@
    "sector": "TV"
   },
   {
-   "title": "Front-End Software Engineer \u2014 Weather Platforms",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-08",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
-   "title": "Weekend Meteorologist",
-   "employer": "WSLS",
-   "location": "Roanoke, VA",
-   "salary": null,
-   "date_posted": "2026-10-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
-   "sector": "TV"
-  },
-  {
    "title": "METEOROLOGICAL TECHNICIAN",
    "employer": "Air Force District of Washington",
    "location": "Andrews AFB, Maryland",
@@ -242,17 +294,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/887831800",
    "sector": "military"
-  },
-  {
-   "title": "Backend Software Engineer, Weather & Aviation",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-06",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
-   "sector": "private",
-   "state": "CO"
   },
   {
    "title": "Meteorologist",
@@ -273,6 +314,16 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/887393400",
    "sector": "federal"
+  },
+  {
+   "title": "Meteorologist host for route-based YouTube show (US, freelance contractor, per episode, remote)",
+   "employer": "Weather on the Way",
+   "location": "",
+   "salary": null,
+   "date_posted": "2026-09-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/539273928",
+   "sector": "TV"
   },
   {
    "title": "Senior Meteorologist",
@@ -303,17 +354,6 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5209679007",
    "sector": "private"
-  },
-  {
-   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
-   "employer": "Spire Global",
-   "location": "Remote - Based in Europe",
-   "salary": null,
-   "date_posted": "2026-08-26",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
-   "sector": "private",
-   "state": "Remote"
   },
   {
    "title": "Aviation Meteorologist (Future Talent Pipeline)",
