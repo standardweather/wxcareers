@@ -114,9 +114,31 @@ def main():
     (OUT/'feed.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
         f'<title>WxCareers Blog</title><link>{BASE}/blog/</link><description>Notes on meteorology jobs, pay, and careers.</description><language>en-us</language>'
         f'<atom:link href="{BASE}/blog/feed.xml" rel="self" type="application/rss+xml"/><lastBuildDate>{now}</lastBuildDate>{items}</channel></rss>\n', encoding='utf-8')
-    urls=[f'{BASE}/',f'{BASE}/salaries.html',f'{BASE}/post.html',f'{BASE}/newsletter.html',f'{BASE}/blog/']
+    urls=[f'{BASE}/',f'{BASE}/salaries.html',f'{BASE}/post.html',f'{BASE}/newsletter.html',f'{BASE}/about.html',f'{BASE}/faq.html',f'{BASE}/blog/']
     sm=''.join(f'<url><loc>{u}</loc></url>' for u in urls)+''.join(f'<url><loc>{BASE}/blog/{p["slug"]}/</loc><lastmod>{p["date"].isoformat()}</lastmod></url>' for p in posts)
     (SITE/'sitemap.xml').write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n', encoding='utf-8')
     (SITE/'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n')
     print(f'built {len(posts)} post(s), blog index, feed.xml, sitemap.xml ({len(urls)+len(posts)} urls)')
-if __name__=='__main__': main()
+def render_static_jobs():
+    """Bake jobs.json into index.html so crawlers without JS still see listings. JS replaces it on load."""
+    import json, html as H
+    d=json.loads((SITE/'jobs.json').read_text(encoding='utf-8'))
+    e=lambda v:H.escape(str(v or ''))
+    rows=''.join(f'<article class=job><div class=job-main><h2 class=job-title><a href="{e(j.get("url"))}" target=_blank rel=noopener>{e(j.get("title"))}</a></h2><p class=job-employer>{e(j.get("employer"))}</p><p class=meta><span>{e(j.get("location"))}</span><span>via {e(j.get("source"))}</span></p>'+(f'<p class=sal>{e(j["salary"])}</p>' if j.get('salary') else '')+'</div></article>' for j in d.get('jobs',[]))
+    p=SITE/'index.html'; s=p.read_text(encoding='utf-8')
+    s=re.sub(r'<!--STATIC-JOBS-->.*?<!--/STATIC-JOBS-->', lambda m:'<!--STATIC-JOBS-->'+rows+'<!--/STATIC-JOBS-->', s, flags=re.S)
+    p.write_text(s, encoding='utf-8')
+    (SITE/'llms.txt').write_text(f"""# WxCareers
+
+> Free, independent job board for meteorologists. Lists meteorology jobs from TV stations, the National Weather Service and USAJOBS, private weather companies, aviation, the military, and universities. Updated daily. Not affiliated with any employer, including Gray Media.
+
+- [Jobs]({BASE}/): all current listings ({d.get('count',len(d.get('jobs',[])))} open as of {d.get('updated','')}), filterable by sector and state
+- [Job data (JSON)]({BASE}/jobs.json)
+- [Salaries]({BASE}/salaries.html): pay posted in current listings
+- [About]({BASE}/about.html)
+- [FAQ]({BASE}/faq.html)
+- [Newsletter]({BASE}/newsletter.html): The WxCareers Weekly
+- [Blog]({BASE}/blog/)
+""", encoding='utf-8')
+
+if __name__=='__main__': main(); render_static_jobs()

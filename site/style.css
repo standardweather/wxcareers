@@ -100,3 +100,5 @@ td,td.sal{border:0;padding:3px 0;display:flex;gap:12px}td::before{content:attr(d
 .article a{color:#0B5FD9}.article blockquote{border-left:3px solid #BFD3F2;margin:16px 0;padding:4px 16px;color:var(--ink-2)}
 .article pre{background:#0F1B2D;color:#E6EDF7;padding:14px;border-radius:8px;overflow:auto;font-size:14px}.article code{font-size:.92em}
 .article img{max-width:100%;border-radius:8px}.back{display:inline-block;margin:24px 0 0;color:#0B5FD9;text-decoration:none;font-weight:600}
+
+.prose{max-width:720px}.prose h2{font-size:1.15rem;margin:1.6em 0 .4em}.prose p{line-height:1.65;margin:0 0 1em}
