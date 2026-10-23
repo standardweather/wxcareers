@@ -1,7 +1,57 @@
 {
- "updated": "2026-10-22T14:58+00:00",
+ "updated": "2026-10-23T14:49+00:00",
  "count": 46,
  "jobs": [
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
+  {
+   "title": "Traffic and Weather Reporter",
+   "employer": "iHeartMedia",
+   "location": "Atlanta, GA",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543985998",
+   "sector": "TV"
+  },
   {
    "title": "Meteorologist",
    "employer": "StormGeo",
@@ -13,53 +63,13 @@
    "sector": "private"
   },
   {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
+   "title": "Meteorologist / MMJ",
+   "employer": "Nexstar",
+   "location": "Des Moines, IA",
    "salary": null,
    "date_posted": "2026-10-22",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV"
-  },
-  {
-   "title": "Weekend Meteorologist",
-   "employer": "WSLS",
-   "location": "Roanoke, VA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543870846",
    "sector": "TV"
   },
   {
@@ -123,6 +133,16 @@
    "sector": "private"
   },
   {
+   "title": "Weekend Meteorologist",
+   "employer": "WSLS",
+   "location": "Roanoke, VA",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
+   "sector": "TV"
+  },
+  {
    "title": "Backend Software Engineer, Weather & Aviation",
    "employer": "Spire Global",
    "location": "Boulder, Colorado, United States",
@@ -154,6 +174,16 @@
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
    "sector": "private",
    "state": "Remote"
+  },
+  {
+   "title": "Contributing Meteorologist (Contract)",
+   "employer": "The Weather Company",
+   "location": "United States",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
+   "sector": "private"
   },
   {
    "title": "Meteorologist",
@@ -196,16 +226,6 @@
    "sector": "private"
   },
   {
-   "title": "Contributing Meteorologist (Contract)",
-   "employer": "The Weather Company",
-   "location": "United States",
-   "salary": null,
-   "date_posted": "2026-10-20",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
    "title": "Meteorologist, KGTV",
    "employer": "Scripps (KGTV ABC 10)",
    "location": "San Diego, CA",
@@ -237,22 +257,22 @@
   },
   {
    "title": "Meteorologist",
-   "employer": "WJXT",
-   "location": "Jacksonville, FL",
-   "salary": null,
-   "date_posted": "2026-10-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
    "employer": "WDIV",
    "location": "Detroit, MI",
    "salary": null,
    "date_posted": "2026-10-17",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WJXT",
+   "location": "Jacksonville, FL",
+   "salary": null,
+   "date_posted": "2026-10-17",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
    "sector": "TV"
   },
   {
@@ -286,16 +306,6 @@
    "sector": "TV"
   },
   {
-   "title": "METEOROLOGICAL TECHNICIAN",
-   "employer": "Air Force District of Washington",
-   "location": "Andrews AFB, Maryland",
-   "salary": "Starting at $70,623 Per year (GS 9)",
-   "date_posted": "2026-10-07",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/887831800",
-   "sector": "military"
-  },
-  {
    "title": "Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
    "location": "Anchorage, Alaska + 20 location(s)",
@@ -314,16 +324,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/887393400",
    "sector": "federal"
-  },
-  {
-   "title": "Meteorologist host for route-based YouTube show (US, freelance contractor, per episode, remote)",
-   "employer": "Weather on the Way",
-   "location": "",
-   "salary": null,
-   "date_posted": "2026-09-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/539273928",
-   "sector": "TV"
   },
   {
    "title": "Senior Meteorologist",
