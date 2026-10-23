@@ -2,7 +2,7 @@
 
 > Free, independent job board for meteorologists. Lists meteorology jobs from TV stations, the National Weather Service and USAJOBS, private weather companies, aviation, the military, and universities. Updated daily. Not affiliated with any employer, including Gray Media.
 
-- [Jobs](https://wxcareers.com/): all current listings (42 open as of 2026-10-21T14:06), filterable by sector and state
+- [Jobs](https://wxcareers.com/): all current listings (46 open as of 2026-10-22T14:58+00:00), filterable by sector and state
 - [Job data (JSON)](https://wxcareers.com/jobs.json)
 - [Salaries](https://wxcareers.com/salaries.html): pay posted in current listings
 - [About](https://wxcareers.com/about.html)
