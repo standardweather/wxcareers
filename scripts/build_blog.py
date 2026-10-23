@@ -130,7 +130,7 @@ def render_static_jobs():
     p.write_text(s, encoding='utf-8')
     (SITE/'llms.txt').write_text(f"""# WxCareers
 
-> Free, independent job board for meteorologists. Lists meteorology jobs from TV stations, the National Weather Service and USAJOBS, private weather companies, aviation, the military, and universities. Updated daily. Not affiliated with any employer, including Gray Media.
+> Free, independent job board for meteorologists. Lists meteorology jobs from TV stations, the National Weather Service and USAJOBS, private weather companies, aviation, the military, and universities. Updated daily. Not affiliated with any employer.
 
 - [Jobs]({BASE}/): all current listings ({d.get('count',len(d.get('jobs',[])))} open as of {d.get('updated','')}), filterable by sector and state
 - [Job data (JSON)]({BASE}/jobs.json)
