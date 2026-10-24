@@ -1,13 +1,53 @@
 {
- "updated": "2026-10-23T14:49+00:00",
- "count": 46,
+ "updated": "2026-10-24T13:54+00:00",
+ "count": 47,
  "jobs": [
+  {
+   "title": "Meteorologist (W/End) - Wmtv",
+   "employer": "Gray Television",
+   "location": "Madison, WI",
+   "salary": null,
+   "date_posted": "2026-10-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544143174",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist (Launch Operations)",
+   "employer": "SpaceX",
+   "location": "TX",
+   "salary": null,
+   "date_posted": "2026-10-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544064130",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Launch Operations",
+   "employer": "Space Exploration Technologies Corp",
+   "location": "South Padre Island, TX",
+   "salary": null,
+   "date_posted": "2026-10-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544039627",
+   "sector": "private"
+  },
+  {
+   "title": "ATC Weather Forecaster",
+   "employer": "Amentum Services Inc",
+   "location": "Indian Springs, NV",
+   "salary": null,
+   "date_posted": "2026-10-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544034730",
+   "sector": "private"
+  },
   {
    "title": "Computational Atmospheric Scientist",
    "employer": "Aligned Labs Inc",
    "location": "New York, NY",
    "salary": null,
-   "date_posted": "2026-10-23",
+   "date_posted": "2026-10-24",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
    "sector": "private"
@@ -17,7 +57,7 @@
    "employer": "Ocean Conservancy",
    "location": "Washington, DC",
    "salary": null,
-   "date_posted": "2026-10-23",
+   "date_posted": "2026-10-24",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
    "sector": "private"
@@ -27,7 +67,7 @@
    "employer": "Lynker",
    "location": "College Park, MD",
    "salary": null,
-   "date_posted": "2026-10-23",
+   "date_posted": "2026-10-24",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
    "sector": "private"
@@ -37,7 +77,7 @@
    "employer": "Hearst Television, Inc.",
    "location": "Dallas, TX",
    "salary": null,
-   "date_posted": "2026-10-23",
+   "date_posted": "2026-10-24",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
    "sector": "TV"
@@ -53,23 +93,33 @@
    "sector": "TV"
   },
   {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
-   "sector": "private"
-  },
-  {
    "title": "Meteorologist / MMJ",
    "employer": "Nexstar",
    "location": "Des Moines, IA",
    "salary": null,
-   "date_posted": "2026-10-22",
+   "date_posted": "2026-10-23",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/543870846",
+   "sector": "TV"
+  },
+  {
+   "title": "Senior Meteorologist",
+   "employer": "The Weather Company",
+   "location": "Phoenix, Arizona",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5239770007",
+   "sector": "private"
+  },
+  {
+   "title": "Weekend Meteorologist",
+   "employer": "WSLS",
+   "location": "Roanoke, VA",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
    "sector": "TV"
   },
   {
@@ -81,16 +131,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/543804604",
    "sector": "private"
-  },
-  {
-   "title": "Meteorologist - WSB TV",
-   "employer": "Cox Media Group Inc",
-   "location": "Atlanta, GA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543778429",
-   "sector": "TV"
   },
   {
    "title": "Lead Meteorologist",
@@ -133,14 +173,14 @@
    "sector": "private"
   },
   {
-   "title": "Weekend Meteorologist",
-   "employer": "WSLS",
-   "location": "Roanoke, VA",
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
    "salary": null,
    "date_posted": "2026-10-22",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
-   "sector": "TV"
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private"
   },
   {
    "title": "Backend Software Engineer, Weather & Aviation",
@@ -186,26 +226,6 @@
    "sector": "private"
   },
   {
-   "title": "Meteorologist",
-   "employer": "TEGNA Inc",
-   "location": "Greensboro, NC",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543599209",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Fort Myers Broadcasting Co",
-   "location": "Fort Myers, FL",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543505888",
-   "sector": "TV"
-  },
-  {
    "title": "Meteorologist (Contract)",
    "employer": "The Weather Company",
    "location": "Remote UK",
@@ -213,16 +233,6 @@
    "date_posted": "2026-10-21",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270411007",
-   "sector": "private"
-  },
-  {
-   "title": "Storm Warning Meteorologist",
-   "employer": "AccuWeather",
-   "location": "Wichita, KS",
-   "salary": null,
-   "date_posted": "2026-10-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543298603",
    "sector": "private"
   },
   {
@@ -256,14 +266,14 @@
    "sector": "private"
   },
   {
-   "title": "Meteorologist",
-   "employer": "WDIV",
-   "location": "Detroit, MI",
+   "title": "Storm Warning Meteorologist",
+   "employer": "AccuWeather",
+   "location": "Wichita, KS",
    "salary": null,
-   "date_posted": "2026-10-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
-   "sector": "TV"
+   "date_posted": "2026-10-19",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8288794",
+   "sector": "private"
   },
   {
    "title": "Meteorologist",
@@ -273,6 +283,16 @@
    "date_posted": "2026-10-17",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WDIV",
+   "location": "Detroit, MI",
+   "salary": null,
+   "date_posted": "2026-10-17",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
    "sector": "TV"
   },
   {
@@ -324,16 +344,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/887393400",
    "sector": "federal"
-  },
-  {
-   "title": "Senior Meteorologist",
-   "employer": "The Weather Company",
-   "location": "Phoenix, Arizona",
-   "salary": null,
-   "date_posted": "2026-09-23",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5239770007",
-   "sector": "private"
   },
   {
    "title": "Senior Manager, Meteorological Technologies",
