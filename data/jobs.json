@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-26T16:40+00:00",
- "count": 48,
+ "updated": "2026-10-27T15:48+00:00",
+ "count": 45,
  "jobs": [
+  {
+   "title": "Lead Meteorologist",
+   "employer": "National Oceanic and Atmospheric Administration",
+   "location": "Monterey, CA",
+   "salary": null,
+   "date_posted": "2026-10-27",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544477230",
+   "sector": "federal"
+  },
+  {
+   "title": "LEAD METEOROLOGICAL TECHNICIAN",
+   "employer": "Air Mobility Command",
+   "location": "Scott AFB, Illinois",
+   "salary": "Starting at $69,694 Per year (GS 10)",
+   "date_posted": "2026-10-27",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/889714000",
+   "sector": "private"
+  },
   {
    "title": "Meteorologist/Mmj - Kmov",
    "employer": "Gray Television",
@@ -10,46 +30,6 @@
    "date_posted": "2026-10-26",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544386870",
-   "sector": "TV"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-10-26",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-10-26",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-10-26",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-10-26",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
    "sector": "TV"
   },
   {
@@ -77,7 +57,7 @@
    "employer": "Space Exploration Technologies Corp",
    "location": "South Padre Island, TX",
    "salary": null,
-   "date_posted": "2026-10-23",
+   "date_posted": "2026-10-24",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544039627",
    "sector": "private"
@@ -143,14 +123,14 @@
    "sector": "private"
   },
   {
-   "title": "Lead Meteorologist",
-   "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Calera, AL",
+   "title": "Meteorologist - WSB TV",
+   "employer": "Cox Media Group Inc",
+   "location": "Atlanta, GA",
    "salary": null,
    "date_posted": "2026-10-22",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543763114",
-   "sector": "federal"
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543778429",
+   "sector": "TV"
   },
   {
    "title": "Morning Meteorologist",
@@ -173,14 +153,14 @@
    "sector": "private"
   },
   {
-   "title": "Wildfire Meteorologist - Oahu",
-   "employer": "Hawaiian Electric",
-   "location": "Honolulu, HI",
-   "salary": null,
+   "title": "Lead Meteorologist",
+   "employer": "National Oceanic and Atmospheric Administration",
+   "location": "Calera, Alabama + 9 location(s)",
+   "salary": "Starting at $106,437 Per year (GS 13)",
    "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543724636",
-   "sector": "private"
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/889594100",
+   "sector": "federal"
   },
   {
    "title": "Backend Software Engineer, Weather & Aviation",
@@ -223,16 +203,6 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
