@@ -1,7 +1,57 @@
 {
- "updated": "2026-10-27T15:48+00:00",
- "count": 45,
+ "updated": "2026-10-28T16:31+00:00",
+ "count": 51,
  "jobs": [
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-10-28",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-10-28",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-10-28",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-10-28",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
+  {
+   "title": "METEOROLOGICAL TECHNICIAN",
+   "employer": "Air Combat Command",
+   "location": "Fort Huachuca, Arizona",
+   "salary": "Starting at $62,893 Per year (GS 9)",
+   "date_posted": "2026-10-28",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/890442200",
+   "sector": "private"
+  },
   {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
@@ -21,6 +71,39 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/889714000",
    "sector": "private"
+  },
+  {
+   "title": "Backend Software Engineer, Weather & Aviation",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-10-27",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
+   "sector": "private",
+   "state": "CO"
+  },
+  {
+   "title": "Front-End Software Engineer \u2014 Weather Platforms",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-10-27",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
+   "sector": "private",
+   "state": "CO"
+  },
+  {
+   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
+   "employer": "Spire Global",
+   "location": "Remote - Based in Europe",
+   "salary": null,
+   "date_posted": "2026-10-27",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
+   "sector": "private",
+   "state": "Remote"
   },
   {
    "title": "Meteorologist/Mmj - Kmov",
@@ -57,19 +140,9 @@
    "employer": "Space Exploration Technologies Corp",
    "location": "South Padre Island, TX",
    "salary": null,
-   "date_posted": "2026-10-24",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544039627",
-   "sector": "private"
-  },
-  {
-   "title": "ATC Weather Forecaster",
-   "employer": "Amentum Services Inc",
-   "location": "Indian Springs, NV",
-   "salary": null,
    "date_posted": "2026-10-23",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544034730",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544039627",
    "sector": "private"
   },
   {
@@ -153,6 +226,16 @@
    "sector": "private"
   },
   {
+   "title": "Wildfire Meteorologist - Oahu",
+   "employer": "Hawaiian Electric",
+   "location": "Honolulu, HI",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543724636",
+   "sector": "private"
+  },
+  {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
    "location": "Calera, Alabama + 9 location(s)",
@@ -163,39 +246,6 @@
    "sector": "federal"
   },
   {
-   "title": "Backend Software Engineer, Weather & Aviation",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
-   "title": "Front-End Software Engineer \u2014 Weather Platforms",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
-   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
-   "employer": "Spire Global",
-   "location": "Remote - Based in Europe",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
-   "sector": "private",
-   "state": "Remote"
-  },
-  {
    "title": "Contributing Meteorologist (Contract)",
    "employer": "The Weather Company",
    "location": "United States",
@@ -203,6 +253,16 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
