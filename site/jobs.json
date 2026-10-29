@@ -1,13 +1,43 @@
 {
- "updated": "2026-10-28T16:31+00:00",
- "count": 51,
+ "updated": "2026-10-29T16:47+00:00",
+ "count": 49,
  "jobs": [
+  {
+   "title": "Meteorologist",
+   "employer": "TEGNA Inc",
+   "location": "Temple, TX",
+   "salary": null,
+   "date_posted": "2026-10-29",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544863313",
+   "sector": "TV"
+  },
+  {
+   "title": "Weather Forecaster/Reporter",
+   "employer": "Sinclair Inc",
+   "location": "Las Vegas, NV",
+   "salary": null,
+   "date_posted": "2026-10-29",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544861628",
+   "sector": "TV"
+  },
+  {
+   "title": "Weekend Morning Meteorologist",
+   "employer": "Nexstar",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-10-29",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544821902",
+   "sector": "TV"
+  },
   {
    "title": "Computational Atmospheric Scientist",
    "employer": "Aligned Labs Inc",
    "location": "New York, NY",
    "salary": null,
-   "date_posted": "2026-10-28",
+   "date_posted": "2026-10-29",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
    "sector": "private"
@@ -17,7 +47,7 @@
    "employer": "Ocean Conservancy",
    "location": "Washington, DC",
    "salary": null,
-   "date_posted": "2026-10-28",
+   "date_posted": "2026-10-29",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
    "sector": "private"
@@ -27,7 +57,7 @@
    "employer": "Lynker",
    "location": "College Park, MD",
    "salary": null,
-   "date_posted": "2026-10-28",
+   "date_posted": "2026-10-29",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
    "sector": "private"
@@ -37,7 +67,7 @@
    "employer": "Hearst Television, Inc.",
    "location": "Dallas, TX",
    "salary": null,
-   "date_posted": "2026-10-28",
+   "date_posted": "2026-10-29",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
    "sector": "TV"
@@ -146,6 +176,16 @@
    "sector": "private"
   },
   {
+   "title": "ATC Weather Forecaster",
+   "employer": "Amentum Services Inc",
+   "location": "Indian Springs, NV",
+   "salary": null,
+   "date_posted": "2026-10-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/544034730",
+   "sector": "private"
+  },
+  {
    "title": "Traffic and Weather Reporter",
    "employer": "iHeartMedia",
    "location": "Atlanta, GA",
@@ -174,66 +214,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
    "sector": "TV"
-  },
-  {
-   "title": "Meteorologist / MMJ",
-   "employer": "Nexstar",
-   "location": "Des Moines, IA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543870846",
-   "sector": "TV"
-  },
-  {
-   "title": "Expert Meteorologist",
-   "employer": "Tomorrow Companies Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543804604",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist - WSB TV",
-   "employer": "Cox Media Group Inc",
-   "location": "Atlanta, GA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543778429",
-   "sector": "TV"
-  },
-  {
-   "title": "Morning Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Oklahoma City, OK",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543747015",
-   "sector": "TV"
-  },
-  {
-   "title": "Expert Meteorologist",
-   "employer": "The Tomorrow Companies Inc.",
-   "location": "Boston, MA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543729256",
-   "sector": "private"
-  },
-  {
-   "title": "Wildfire Meteorologist - Oahu",
-   "employer": "Hawaiian Electric",
-   "location": "Honolulu, HI",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543724636",
-   "sector": "private"
   },
   {
    "title": "Lead Meteorologist",
