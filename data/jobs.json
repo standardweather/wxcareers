@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-01T16:42+00:00",
- "count": 46,
+ "updated": "2026-11-02T20:08+00:00",
+ "count": 49,
  "jobs": [
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-02",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-02",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-02",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-02",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
   {
    "title": "Weather Forecaster/Observer-Guantanamo Bay, Cuba",
    "employer": "RedTown Technical Services, LLC",
@@ -140,7 +180,7 @@
    "employer": "SpaceX",
    "location": "TX",
    "salary": null,
-   "date_posted": "2026-10-24",
+   "date_posted": "2026-10-23",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544064130",
    "sector": "private"
@@ -150,7 +190,7 @@
    "employer": "Space Exploration Technologies Corp",
    "location": "South Padre Island, TX",
    "salary": null,
-   "date_posted": "2026-10-24",
+   "date_posted": "2026-10-23",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544039627",
    "sector": "private"
@@ -186,16 +226,6 @@
    "sector": "TV"
   },
   {
-   "title": "Meteorologist / MMJ",
-   "employer": "Nexstar",
-   "location": "Des Moines, IA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543870846",
-   "sector": "TV"
-  },
-  {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
    "location": "Calera, Alabama + 9 location(s)",
@@ -213,6 +243,16 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
@@ -453,16 +493,6 @@
    "date_posted": null,
    "source": "Employer careers page",
    "url": "https://jobs.spectrum.com/job/dallas/meteorologist-spectrum-news-sn/4673/100818516624",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist - Spectrum News 1",
-   "employer": "Spectrum News (Charter)",
-   "location": "Louisville, KY",
-   "salary": null,
-   "date_posted": null,
-   "source": "Employer careers page",
-   "url": "https://jobs.spectrum.com/job/louisville/meteorologist-spectrum-news-1/4673/100194462992",
    "sector": "TV"
   }
  ]
