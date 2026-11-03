@@ -1,45 +1,25 @@
 {
- "updated": "2026-11-02T20:08+00:00",
- "count": 49,
+ "updated": "2026-11-03T17:39+00:00",
+ "count": 43,
  "jobs": [
   {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
+   "title": "Meteorologist",
+   "employer": "Bonneville Power Administration",
+   "location": "Portland, OR",
    "salary": null,
-   "date_posted": "2026-11-02",
+   "date_posted": "2026-11-03",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-02",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-02",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
+   "url": "https://www.ihirebroadcasting.com/jobs/view/545808702",
+   "sector": "energy"
   },
   {
    "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
+   "employer": "Nexstar",
+   "location": "Lansing, MI",
    "salary": null,
-   "date_posted": "2026-11-02",
+   "date_posted": "2026-11-03",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/545775070",
    "sector": "TV"
   },
   {
@@ -113,16 +93,6 @@
    "sector": "federal"
   },
   {
-   "title": "LEAD METEOROLOGICAL TECHNICIAN",
-   "employer": "Air Mobility Command",
-   "location": "Scott AFB, Illinois",
-   "salary": "Starting at $69,694 Per year (GS 10)",
-   "date_posted": "2026-10-27",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/889714000",
-   "sector": "private"
-  },
-  {
    "title": "Backend Software Engineer, Weather & Aviation",
    "employer": "Spire Global",
    "location": "Boulder, Colorado, United States",
@@ -180,30 +150,10 @@
    "employer": "SpaceX",
    "location": "TX",
    "salary": null,
-   "date_posted": "2026-10-23",
+   "date_posted": "2026-10-24",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544064130",
    "sector": "private"
-  },
-  {
-   "title": "Meteorologist Launch Operations",
-   "employer": "Space Exploration Technologies Corp",
-   "location": "South Padre Island, TX",
-   "salary": null,
-   "date_posted": "2026-10-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544039627",
-   "sector": "private"
-  },
-  {
-   "title": "Traffic and Weather Reporter",
-   "employer": "iHeartMedia",
-   "location": "Atlanta, GA",
-   "salary": null,
-   "date_posted": "2026-10-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543985998",
-   "sector": "TV"
   },
   {
    "title": "Senior Meteorologist",
@@ -243,16 +193,6 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
