@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T17:39+00:00",
- "count": 43,
+ "updated": "2026-11-04T17:52+00:00",
+ "count": 41,
  "jobs": [
   {
    "title": "Meteorologist",
@@ -91,28 +91,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544477230",
    "sector": "federal"
-  },
-  {
-   "title": "Backend Software Engineer, Weather & Aviation",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-27",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
-   "title": "Front-End Software Engineer \u2014 Weather Platforms",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-27",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
-   "sector": "private",
-   "state": "CO"
   },
   {
    "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
