@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-04T17:52+00:00",
- "count": 41,
+ "updated": "2026-11-05T17:55+00:00",
+ "count": 42,
  "jobs": [
+  {
+   "title": "Meteorologist I",
+   "employer": "AccuWeather",
+   "location": "State College, PA",
+   "salary": null,
+   "date_posted": "2026-11-05",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546137279",
+   "sector": "private"
+  },
+  {
+   "title": "Backend Software Engineer, Weather & Aviation",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-11-05",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
+   "sector": "private",
+   "state": "CO"
+  },
   {
    "title": "Meteorologist",
    "employer": "Bonneville Power Administration",
@@ -93,6 +114,17 @@
    "sector": "federal"
   },
   {
+   "title": "Front-End Software Engineer \u2014 Weather Platforms",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-10-27",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
+   "sector": "private",
+   "state": "CO"
+  },
+  {
    "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
    "employer": "Spire Global",
    "location": "Remote - Based in Europe",
@@ -124,16 +156,6 @@
    "sector": "TV"
   },
   {
-   "title": "Meteorologist (Launch Operations)",
-   "employer": "SpaceX",
-   "location": "TX",
-   "salary": null,
-   "date_posted": "2026-10-24",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544064130",
-   "sector": "private"
-  },
-  {
    "title": "Senior Meteorologist",
    "employer": "The Weather Company",
    "location": "Phoenix, Arizona",
@@ -152,16 +174,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
    "sector": "TV"
-  },
-  {
-   "title": "Lead Meteorologist",
-   "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Calera, Alabama + 9 location(s)",
-   "salary": "Starting at $106,437 Per year (GS 13)",
-   "date_posted": "2026-10-22",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/889594100",
-   "sector": "federal"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
