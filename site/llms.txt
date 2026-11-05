@@ -7,5 +7,4 @@
 - [Salaries](https://wxcareers.com/salaries.html): pay posted in current listings
 - [About](https://wxcareers.com/about.html)
 - [FAQ](https://wxcareers.com/faq.html)
-- [Newsletter](https://wxcareers.com/newsletter.html): The WxCareers Weekly
 - [Blog](https://wxcareers.com/blog/)
