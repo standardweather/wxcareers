@@ -1,7 +1,68 @@
 {
- "updated": "2026-11-05T17:55+00:00",
- "count": 42,
+ "updated": "2026-11-06T17:16+00:00",
+ "count": 41,
  "jobs": [
+  {
+   "title": "Weekend Meteorologist",
+   "employer": "WSLS",
+   "location": "Roanoke, VA",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
+   "sector": "TV"
+  },
+  {
+   "title": "Chief Meteorologist - Spectrum News 1",
+   "employer": "Spectrum",
+   "location": "Buffalo, NY",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546252624",
+   "sector": "TV"
+  },
+  {
+   "title": "Digital Content & Engagement Intern \u2013 Forecasting and Communications",
+   "employer": "AccuWeather",
+   "location": "State College, PA",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8189209",
+   "sector": "private"
+  },
+  {
+   "title": "Senior Lightning Scientist",
+   "employer": "AccuWeather",
+   "location": "Remote; State College, PA",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/7561810",
+   "sector": "private"
+  },
+  {
+   "title": "Storm Warning Meteorologist",
+   "employer": "AccuWeather",
+   "location": "Wichita, KS",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8288794",
+   "sector": "private"
+  },
+  {
+   "title": "Software Development Engineer in Test (SDET) \u2013 Weather Platforms",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
+   "sector": "private",
+   "state": "CO"
+  },
   {
    "title": "Meteorologist I",
    "employer": "AccuWeather",
@@ -41,6 +102,16 @@
    "date_posted": "2026-11-03",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/545775070",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WJXT",
+   "location": "Jacksonville, FL",
+   "salary": null,
+   "date_posted": "2026-11-02",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
    "sector": "TV"
   },
   {
@@ -114,17 +185,6 @@
    "sector": "federal"
   },
   {
-   "title": "Front-End Software Engineer \u2014 Weather Platforms",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-10-27",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
    "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
    "employer": "Spire Global",
    "location": "Remote - Based in Europe",
@@ -143,36 +203,6 @@
    "date_posted": "2026-10-26",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/544386870",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist (W/End) - Wmtv",
-   "employer": "Gray Television",
-   "location": "Madison, WI",
-   "salary": null,
-   "date_posted": "2026-10-24",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544143174",
-   "sector": "TV"
-  },
-  {
-   "title": "Senior Meteorologist",
-   "employer": "The Weather Company",
-   "location": "Phoenix, Arizona",
-   "salary": null,
-   "date_posted": "2026-10-23",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5239770007",
-   "sector": "private"
-  },
-  {
-   "title": "Weekend Meteorologist",
-   "employer": "WSLS",
-   "location": "Roanoke, VA",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
    "sector": "TV"
   },
   {
@@ -214,36 +244,6 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8038098003?gh_jid=8038098003",
    "sector": "private"
-  },
-  {
-   "title": "Digital Content & Engagement Intern \u2013 Forecasting and Communications",
-   "employer": "AccuWeather",
-   "location": "State College, PA",
-   "salary": null,
-   "date_posted": "2026-10-19",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8189209",
-   "sector": "private"
-  },
-  {
-   "title": "Storm Warning Meteorologist",
-   "employer": "AccuWeather",
-   "location": "Wichita, KS",
-   "salary": null,
-   "date_posted": "2026-10-19",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8288794",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "WJXT",
-   "location": "Jacksonville, FL",
-   "salary": null,
-   "date_posted": "2026-10-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
-   "sector": "TV"
   },
   {
    "title": "Meteorologist",
@@ -364,16 +364,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/862936600",
    "sector": "military"
-  },
-  {
-   "title": "Senior Lightning Scientist",
-   "employer": "AccuWeather",
-   "location": "Remote; State College, PA",
-   "salary": null,
-   "date_posted": "2026-01-26",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/7561810",
-   "sector": "private"
   },
   {
    "title": "METEOROLOGICAL TECHNICIAN - TITLE 32",
