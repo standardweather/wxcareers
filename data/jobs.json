@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-06T17:16+00:00",
- "count": 41,
+ "updated": "2026-11-07T16:12+00:00",
+ "count": 43,
  "jobs": [
+  {
+   "title": "Morning Meteorologist/ Weather Forecaster, KERO",
+   "employer": "The E. W. Scripps Co",
+   "location": "Bakersfield, CA",
+   "salary": null,
+   "date_posted": "2026-11-07",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546625902",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Sinclair Inc",
+   "location": "Axtell, NE",
+   "salary": null,
+   "date_posted": "2026-11-07",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546624754",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WRIC-TV",
+   "location": "Richmond, VA",
+   "salary": null,
+   "date_posted": "2026-11-07",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546555042",
+   "sector": "TV"
+  },
+  {
+   "title": "Client Success Meteorologist",
+   "employer": "Baron Weather Inc",
+   "location": "Huntsville, AL",
+   "salary": null,
+   "date_posted": "2026-11-07",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546525984",
+   "sector": "private"
+  },
+  {
+   "title": "Temporary Part-time Meteorologist",
+   "employer": "Sinclair Broadcast Group",
+   "location": "Tulsa, OK",
+   "salary": null,
+   "date_posted": "2026-11-07",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546504048",
+   "sector": "TV"
+  },
+  {
+   "title": "Morning Meteorologist",
+   "employer": "Alabama's ABC 33/40",
+   "location": "Chattanooga, TN",
+   "salary": null,
+   "date_posted": "2026-11-07",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546503822",
+   "sector": "TV"
+  },
   {
    "title": "Weekend Meteorologist",
    "employer": "WSLS",
@@ -135,36 +195,6 @@
    "sector": "TV"
   },
   {
-   "title": "Meteorologist",
-   "employer": "TEGNA Inc",
-   "location": "Temple, TX",
-   "salary": null,
-   "date_posted": "2026-10-29",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544863313",
-   "sector": "TV"
-  },
-  {
-   "title": "Weather Forecaster/Reporter",
-   "employer": "Sinclair Inc",
-   "location": "Las Vegas, NV",
-   "salary": null,
-   "date_posted": "2026-10-29",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544861628",
-   "sector": "TV"
-  },
-  {
-   "title": "Weekend Morning Meteorologist",
-   "employer": "Nexstar",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-10-29",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544821902",
-   "sector": "TV"
-  },
-  {
    "title": "METEOROLOGICAL TECHNICIAN",
    "employer": "Air Combat Command",
    "location": "Fort Huachuca, Arizona",
@@ -177,11 +207,11 @@
   {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Monterey, CA",
-   "salary": null,
+   "location": "Monterey, California + 10 location(s)",
+   "salary": "Starting at $106,437 Per year (GS 13)",
    "date_posted": "2026-10-27",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544477230",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/890251300",
    "sector": "federal"
   },
   {
@@ -194,16 +224,6 @@
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
    "sector": "private",
    "state": "Remote"
-  },
-  {
-   "title": "Meteorologist/Mmj - Kmov",
-   "employer": "Gray Television",
-   "location": "Maryland Heights, MO",
-   "salary": null,
-   "date_posted": "2026-10-26",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/544386870",
-   "sector": "TV"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
