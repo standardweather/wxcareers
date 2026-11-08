@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-07T16:12+00:00",
- "count": 43,
+ "updated": "2026-11-08T16:34+00:00",
+ "count": 48,
  "jobs": [
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-08",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-08",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-08",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-08",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
   {
    "title": "Morning Meteorologist/ Weather Forecaster, KERO",
    "employer": "The E. W. Scripps Co",
@@ -224,6 +264,16 @@
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
    "sector": "private",
    "state": "Remote"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-22",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
