@@ -1,13 +1,33 @@
 {
- "updated": "2026-11-08T16:34+00:00",
+ "updated": "2026-11-09T20:34+00:00",
  "count": 48,
  "jobs": [
+  {
+   "title": "Meteorologist I",
+   "employer": "Nexstar",
+   "location": "Richmond, VA",
+   "salary": null,
+   "date_posted": "2026-11-09",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546843292",
+   "sector": "TV"
+  },
+  {
+   "title": "Lead Meteorologist",
+   "employer": "National Oceanic and Atmospheric Administration",
+   "location": "Boulder, CO",
+   "salary": null,
+   "date_posted": "2026-11-09",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546806264",
+   "sector": "federal"
+  },
   {
    "title": "Computational Atmospheric Scientist",
    "employer": "Aligned Labs Inc",
    "location": "New York, NY",
    "salary": null,
-   "date_posted": "2026-11-08",
+   "date_posted": "2026-11-09",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
    "sector": "private"
@@ -17,7 +37,7 @@
    "employer": "Ocean Conservancy",
    "location": "Washington, DC",
    "salary": null,
-   "date_posted": "2026-11-08",
+   "date_posted": "2026-11-09",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
    "sector": "private"
@@ -27,7 +47,7 @@
    "employer": "Lynker",
    "location": "College Park, MD",
    "salary": null,
-   "date_posted": "2026-11-08",
+   "date_posted": "2026-11-09",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
    "sector": "private"
@@ -37,7 +57,7 @@
    "employer": "Hearst Television, Inc.",
    "location": "Dallas, TX",
    "salary": null,
-   "date_posted": "2026-11-08",
+   "date_posted": "2026-11-09",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
    "sector": "TV"
@@ -73,36 +93,6 @@
    "sector": "TV"
   },
   {
-   "title": "Client Success Meteorologist",
-   "employer": "Baron Weather Inc",
-   "location": "Huntsville, AL",
-   "salary": null,
-   "date_posted": "2026-11-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546525984",
-   "sector": "private"
-  },
-  {
-   "title": "Temporary Part-time Meteorologist",
-   "employer": "Sinclair Broadcast Group",
-   "location": "Tulsa, OK",
-   "salary": null,
-   "date_posted": "2026-11-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546504048",
-   "sector": "TV"
-  },
-  {
-   "title": "Morning Meteorologist",
-   "employer": "Alabama's ABC 33/40",
-   "location": "Chattanooga, TN",
-   "salary": null,
-   "date_posted": "2026-11-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546503822",
-   "sector": "TV"
-  },
-  {
    "title": "Weekend Meteorologist",
    "employer": "WSLS",
    "location": "Roanoke, VA",
@@ -113,13 +103,33 @@
    "sector": "TV"
   },
   {
-   "title": "Chief Meteorologist - Spectrum News 1",
-   "employer": "Spectrum",
-   "location": "Buffalo, NY",
+   "title": "Client Success Meteorologist",
+   "employer": "Baron Weather Inc",
+   "location": "Huntsville, AL",
    "salary": null,
    "date_posted": "2026-11-06",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546252624",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546525984",
+   "sector": "private"
+  },
+  {
+   "title": "Temporary Part-time Meteorologist",
+   "employer": "Sinclair Broadcast Group",
+   "location": "Tulsa, OK",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546504048",
+   "sector": "TV"
+  },
+  {
+   "title": "Morning Meteorologist",
+   "employer": "Alabama's ABC 33/40",
+   "location": "Chattanooga, TN",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546503822",
    "sector": "TV"
   },
   {
@@ -164,6 +174,16 @@
    "state": "CO"
   },
   {
+   "title": "Chief Meteorologist - Spectrum News 1",
+   "employer": "Spectrum",
+   "location": "Buffalo, NY",
+   "salary": null,
+   "date_posted": "2026-11-05",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546252624",
+   "sector": "TV"
+  },
+  {
    "title": "Meteorologist I",
    "employer": "AccuWeather",
    "location": "State College, PA",
@@ -196,16 +216,6 @@
   },
   {
    "title": "Meteorologist",
-   "employer": "Nexstar",
-   "location": "Lansing, MI",
-   "salary": null,
-   "date_posted": "2026-11-03",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/545775070",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
    "employer": "WJXT",
    "location": "Jacksonville, FL",
    "salary": null,
@@ -223,16 +233,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/545421150",
    "sector": "private"
-  },
-  {
-   "title": "Meteorologist (Morning/Noon) - Whsv",
-   "employer": "Gray Television",
-   "location": "Harrisonburg, VA",
-   "salary": null,
-   "date_posted": "2026-10-31",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/545243607",
-   "sector": "TV"
   },
   {
    "title": "METEOROLOGICAL TECHNICIAN",
@@ -266,16 +266,6 @@
    "state": "Remote"
   },
   {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
-   "sector": "private"
-  },
-  {
    "title": "Contributing Meteorologist (Contract)",
    "employer": "The Weather Company",
    "location": "United States",
@@ -283,6 +273,16 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
