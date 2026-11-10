@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-09T20:34+00:00",
- "count": 48,
+ "updated": "2026-11-10T17:37+00:00",
+ "count": 43,
  "jobs": [
+  {
+   "title": "Copy of Weather Forecaster/Observer-Whidbey Island, WA",
+   "employer": "Atmospheric Science Technology, LLC",
+   "location": "Oak Harbor, WA",
+   "salary": null,
+   "date_posted": "2026-11-10",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547052568",
+   "sector": "private"
+  },
+  {
+   "title": "Atmospheric Scientist, Calibration Validation Specialist",
+   "employer": "DeVine Consulting, Inc.",
+   "location": "Monterey, CA",
+   "salary": null,
+   "date_posted": "2026-11-10",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547045769",
+   "sector": "private"
+  },
+  {
+   "title": "First Alert Meteorologist - Ksla",
+   "employer": "Gray Television",
+   "location": "Shreveport, LA",
+   "salary": null,
+   "date_posted": "2026-11-10",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/546962905",
+   "sector": "TV"
+  },
   {
    "title": "Meteorologist I",
    "employer": "Nexstar",
@@ -21,46 +51,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/546806264",
    "sector": "federal"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-09",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-09",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-09",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-09",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV"
   },
   {
    "title": "Morning Meteorologist/ Weather Forecaster, KERO",
@@ -123,16 +113,6 @@
    "sector": "TV"
   },
   {
-   "title": "Morning Meteorologist",
-   "employer": "Alabama's ABC 33/40",
-   "location": "Chattanooga, TN",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546503822",
-   "sector": "TV"
-  },
-  {
    "title": "Digital Content & Engagement Intern \u2013 Forecasting and Communications",
    "employer": "AccuWeather",
    "location": "State College, PA",
@@ -140,6 +120,16 @@
    "date_posted": "2026-11-06",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8189209",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist I",
+   "employer": "AccuWeather",
+   "location": "State College, PA",
+   "salary": null,
+   "date_posted": "2026-11-06",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8354201",
    "sector": "private"
   },
   {
@@ -174,26 +164,6 @@
    "state": "CO"
   },
   {
-   "title": "Chief Meteorologist - Spectrum News 1",
-   "employer": "Spectrum",
-   "location": "Buffalo, NY",
-   "salary": null,
-   "date_posted": "2026-11-05",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546252624",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist I",
-   "employer": "AccuWeather",
-   "location": "State College, PA",
-   "salary": null,
-   "date_posted": "2026-11-05",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546137279",
-   "sector": "private"
-  },
-  {
    "title": "Backend Software Engineer, Weather & Aviation",
    "employer": "Spire Global",
    "location": "Boulder, Colorado, United States",
@@ -207,11 +177,11 @@
   {
    "title": "Meteorologist",
    "employer": "Bonneville Power Administration",
-   "location": "Portland, OR",
-   "salary": null,
+   "location": "Portland, Oregon",
+   "salary": "Starting at $80,465 Per year (GS 11-12)",
    "date_posted": "2026-11-03",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/545808702",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/891281800",
    "sector": "energy"
   },
   {
@@ -245,16 +215,6 @@
    "sector": "private"
   },
   {
-   "title": "Lead Meteorologist",
-   "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Monterey, California + 10 location(s)",
-   "salary": "Starting at $106,437 Per year (GS 13)",
-   "date_posted": "2026-10-27",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/890251300",
-   "sector": "federal"
-  },
-  {
    "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
    "employer": "Spire Global",
    "location": "Remote - Based in Europe",
@@ -273,16 +233,6 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
