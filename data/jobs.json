@@ -1,7 +1,120 @@
 {
- "updated": "2026-11-10T17:37+00:00",
- "count": 43,
+ "updated": "2026-11-11T17:47+00:00",
+ "count": 45,
  "jobs": [
+  {
+   "title": "Radar Meteorologist",
+   "employer": "Rainmaker Technology Corporation",
+   "location": "El Segundo, CA",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547216080",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist III",
+   "employer": "Nexstar Media Group Inc",
+   "location": "Lubbock, TX",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547148597",
+   "sector": "TV"
+  },
+  {
+   "title": "Energy and Climate Analyst",
+   "employer": "RTI International",
+   "location": "San Francisco, CA",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547121393",
+   "sector": "energy"
+  },
+  {
+   "title": "Meteorologist/Weather Forecaster - Kosa",
+   "employer": "Gray Television",
+   "location": "Odessa, TX",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547107429",
+   "sector": "TV"
+  },
+  {
+   "title": "Chief Meteorologist",
+   "employer": "Nexstar",
+   "location": "Lubbock, TX",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547107103",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Federal Emergency Management Agency",
+   "location": "Miami, FL",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547079743",
+   "sector": "federal"
+  },
+  {
+   "title": "Meteorological Technician-Direct Hire Authority",
+   "employer": "Air Force Materiel Command",
+   "location": "Edwards AFB, California + 5 location(s)",
+   "salary": "Starting at $61,722 Per year (NJ 3)",
+   "date_posted": "2026-11-11",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/892368900",
+   "sector": "military"
+  },
+  {
+   "title": "Meteorologist I",
+   "employer": "AccuWeather",
+   "location": "State College, PA",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8354201",
+   "sector": "private"
+  },
+  {
+   "title": "Backend Software Engineer, Weather & Aviation",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
+   "sector": "private",
+   "state": "CO"
+  },
+  {
+   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
+   "employer": "Spire Global",
+   "location": "Remote - Based in Europe",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
+   "sector": "private",
+   "state": "Remote"
+  },
+  {
+   "title": "Software Development Engineer in Test (SDET) \u2013 Weather Platforms",
+   "employer": "Spire Global",
+   "location": "Boulder, Colorado, United States",
+   "salary": null,
+   "date_posted": "2026-11-11",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
+   "sector": "private",
+   "state": "CO"
+  },
   {
    "title": "Copy of Weather Forecaster/Observer-Whidbey Island, WA",
    "employer": "Atmospheric Science Technology, LLC",
@@ -45,42 +158,12 @@
   {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Boulder, CO",
-   "salary": null,
+   "location": "Boulder, Colorado + 9 location(s)",
+   "salary": "Starting at $106,437 Per year (GS 13)",
    "date_posted": "2026-11-09",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546806264",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/891992800",
    "sector": "federal"
-  },
-  {
-   "title": "Morning Meteorologist/ Weather Forecaster, KERO",
-   "employer": "The E. W. Scripps Co",
-   "location": "Bakersfield, CA",
-   "salary": null,
-   "date_posted": "2026-11-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546625902",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Sinclair Inc",
-   "location": "Axtell, NE",
-   "salary": null,
-   "date_posted": "2026-11-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546624754",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "WRIC-TV",
-   "location": "Richmond, VA",
-   "salary": null,
-   "date_posted": "2026-11-07",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546555042",
-   "sector": "TV"
   },
   {
    "title": "Weekend Meteorologist",
@@ -93,26 +176,6 @@
    "sector": "TV"
   },
   {
-   "title": "Client Success Meteorologist",
-   "employer": "Baron Weather Inc",
-   "location": "Huntsville, AL",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546525984",
-   "sector": "private"
-  },
-  {
-   "title": "Temporary Part-time Meteorologist",
-   "employer": "Sinclair Broadcast Group",
-   "location": "Tulsa, OK",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546504048",
-   "sector": "TV"
-  },
-  {
    "title": "Digital Content & Engagement Intern \u2013 Forecasting and Communications",
    "employer": "AccuWeather",
    "location": "State College, PA",
@@ -120,16 +183,6 @@
    "date_posted": "2026-11-06",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8189209",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist I",
-   "employer": "AccuWeather",
-   "location": "State College, PA",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8354201",
    "sector": "private"
   },
   {
@@ -151,28 +204,6 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8288794",
    "sector": "private"
-  },
-  {
-   "title": "Software Development Engineer in Test (SDET) \u2013 Weather Platforms",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
-   "title": "Backend Software Engineer, Weather & Aviation",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-11-05",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
-   "sector": "private",
-   "state": "CO"
   },
   {
    "title": "Meteorologist",
@@ -213,17 +244,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/890442200",
    "sector": "private"
-  },
-  {
-   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
-   "employer": "Spire Global",
-   "location": "Remote - Based in Europe",
-   "salary": null,
-   "date_posted": "2026-10-27",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
-   "sector": "private",
-   "state": "Remote"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
