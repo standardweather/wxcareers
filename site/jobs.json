@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-11T17:47+00:00",
+ "updated": "2026-11-12T18:01+00:00",
  "count": 45,
  "jobs": [
+  {
+   "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
+   "employer": "The Walt Disney Co",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547398512",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WJLACOM",
+   "location": "Portland, OR",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
+   "sector": "private"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
   {
    "title": "Radar Meteorologist",
    "employer": "Rainmaker Technology Corporation",
@@ -94,17 +154,6 @@
    "state": "CO"
   },
   {
-   "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
-   "employer": "Spire Global",
-   "location": "Remote - Based in Europe",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8001327&gh_jid=8001327",
-   "sector": "private",
-   "state": "Remote"
-  },
-  {
    "title": "Software Development Engineer in Test (SDET) \u2013 Weather Platforms",
    "employer": "Spire Global",
    "location": "Boulder, Colorado, United States",
@@ -134,26 +183,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547045769",
    "sector": "private"
-  },
-  {
-   "title": "First Alert Meteorologist - Ksla",
-   "employer": "Gray Television",
-   "location": "Shreveport, LA",
-   "salary": null,
-   "date_posted": "2026-11-10",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546962905",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist I",
-   "employer": "Nexstar",
-   "location": "Richmond, VA",
-   "salary": null,
-   "date_posted": "2026-11-09",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/546843292",
-   "sector": "TV"
   },
   {
    "title": "Lead Meteorologist",
@@ -207,16 +236,6 @@
   },
   {
    "title": "Meteorologist",
-   "employer": "Bonneville Power Administration",
-   "location": "Portland, Oregon",
-   "salary": "Starting at $80,465 Per year (GS 11-12)",
-   "date_posted": "2026-11-03",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/891281800",
-   "sector": "energy"
-  },
-  {
-   "title": "Meteorologist",
    "employer": "WJXT",
    "location": "Jacksonville, FL",
    "salary": null,
@@ -253,6 +272,16 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
@@ -314,16 +343,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/888500300",
    "sector": "military"
-  },
-  {
-   "title": "Chief Meteorologist",
-   "employer": "Morgan Murphy Media",
-   "location": "La Crosse, WI",
-   "salary": null,
-   "date_posted": "2026-10-10",
-   "source": "Employer careers page",
-   "url": "https://morganmurphymedia.com/current-openings/chief-meteorologist/",
-   "sector": "TV"
   },
   {
    "title": "Meteorologist",
@@ -433,26 +452,6 @@
    "date_posted": null,
    "source": "Employer careers page",
    "url": "https://jobs.spectrum.com/job/austin/meteorologist-spectrum-news-1/4673/98755779088",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist - National Spectrum News",
-   "employer": "Spectrum News (Charter)",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": null,
-   "source": "Employer careers page",
-   "url": "https://jobs.spectrum.com/job/dallas/meteorologist-national-spectrum-news/4673/98391451616",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist - Spectrum News SN",
-   "employer": "Spectrum News (Charter)",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": null,
-   "source": "Employer careers page",
-   "url": "https://jobs.spectrum.com/job/dallas/meteorologist-spectrum-news-sn/4673/100818516624",
    "sector": "TV"
   }
  ]
