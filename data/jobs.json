@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-12T18:01+00:00",
- "count": 45,
+ "updated": "2026-11-13T17:36+00:00",
+ "count": 41,
  "jobs": [
+  {
+   "title": "Air Quality Meteorologist / Forecaster (EHM II)",
+   "employer": "State of South Carolina",
+   "location": "Richland, SC",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
+   "sector": "private"
+  },
+  {
+   "title": "Interdisciplinary Space Scientist/Physicist/Meteorologist",
+   "employer": "United States Fleet Forces Command",
+   "location": "Monterey, CA",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547480721",
+   "sector": "private"
+  },
+  {
+   "title": "Weekend Meteorologist / MMJ",
+   "employer": "WTWO",
+   "location": "Farmersburg, IN",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547440048",
+   "sector": "TV"
+  },
+  {
+   "title": "Hydrologic Technician",
+   "employer": "U.S. Army Corps of Engineers",
+   "location": "Saint Paul, Minnesota",
+   "salary": "Starting at $74,101 Per year (GS 10-11)",
+   "date_posted": "2026-11-13",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/892580300",
+   "sector": "military"
+  },
   {
    "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
    "employer": "The Walt Disney Co",
@@ -21,46 +61,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
    "sector": "private"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV"
   },
   {
    "title": "Radar Meteorologist",
@@ -165,26 +165,6 @@
    "state": "CO"
   },
   {
-   "title": "Copy of Weather Forecaster/Observer-Whidbey Island, WA",
-   "employer": "Atmospheric Science Technology, LLC",
-   "location": "Oak Harbor, WA",
-   "salary": null,
-   "date_posted": "2026-11-10",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547052568",
-   "sector": "private"
-  },
-  {
-   "title": "Atmospheric Scientist, Calibration Validation Specialist",
-   "employer": "DeVine Consulting, Inc.",
-   "location": "Monterey, CA",
-   "salary": null,
-   "date_posted": "2026-11-10",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547045769",
-   "sector": "private"
-  },
-  {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
    "location": "Boulder, Colorado + 9 location(s)",
@@ -255,16 +235,6 @@
    "sector": "private"
   },
   {
-   "title": "METEOROLOGICAL TECHNICIAN",
-   "employer": "Air Combat Command",
-   "location": "Fort Huachuca, Arizona",
-   "salary": "Starting at $62,893 Per year (GS 9)",
-   "date_posted": "2026-10-28",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/890442200",
-   "sector": "private"
-  },
-  {
    "title": "Contributing Meteorologist (Contract)",
    "employer": "The Weather Company",
    "location": "United States",
@@ -272,16 +242,6 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
