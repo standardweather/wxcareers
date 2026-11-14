@@ -1,7 +1,57 @@
 {
- "updated": "2026-11-13T17:36+00:00",
- "count": 41,
+ "updated": "2026-11-14T16:28+00:00",
+ "count": 47,
  "jobs": [
+  {
+   "title": "Meteorologist",
+   "employer": "Univision Communications Inc.",
+   "location": "Chicago, IL",
+   "salary": null,
+   "date_posted": "2026-11-14",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547668204",
+   "sector": "private"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-14",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-14",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-14",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-14",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
   {
    "title": "Air Quality Meteorologist / Forecaster (EHM II)",
    "employer": "State of South Carolina",
@@ -33,6 +83,26 @@
    "sector": "TV"
   },
   {
+   "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
+   "employer": "The Walt Disney Co",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547398512",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WJLACOM",
+   "location": "Portland, OR",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
+   "sector": "private"
+  },
+  {
    "title": "Hydrologic Technician",
    "employer": "U.S. Army Corps of Engineers",
    "location": "Saint Paul, Minnesota",
@@ -43,23 +113,13 @@
    "sector": "military"
   },
   {
-   "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
-   "employer": "The Walt Disney Co",
-   "location": "New York, NY",
+   "title": "Weather Graphics Production Artist",
+   "employer": "AccuWeather",
+   "location": "State College, PA",
    "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547398512",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "WJLACOM",
-   "location": "Portland, OR",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
+   "date_posted": "2026-11-13",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8367396",
    "sector": "private"
   },
   {
@@ -67,7 +127,7 @@
    "employer": "Rainmaker Technology Corporation",
    "location": "El Segundo, CA",
    "salary": null,
-   "date_posted": "2026-11-11",
+   "date_posted": "2026-11-12",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547216080",
    "sector": "private"
@@ -225,13 +285,13 @@
    "sector": "TV"
   },
   {
-   "title": "Weather Forecaster/Observer-Guantanamo Bay, Cuba",
-   "employer": "RedTown Technical Services, LLC",
-   "location": "Norman, OK",
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
    "salary": null,
-   "date_posted": "2026-11-01",
+   "date_posted": "2026-10-22",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/545421150",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
