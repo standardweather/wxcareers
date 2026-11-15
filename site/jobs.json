@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T16:28+00:00",
- "count": 47,
+ "updated": "2026-11-15T16:53+00:00",
+ "count": 42,
  "jobs": [
   {
    "title": "Meteorologist",
@@ -11,46 +11,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547668204",
    "sector": "private"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-14",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-14",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-14",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-14",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV"
   },
   {
    "title": "Air Quality Meteorologist / Forecaster (EHM II)",
@@ -93,16 +53,6 @@
    "sector": "TV"
   },
   {
-   "title": "Meteorologist",
-   "employer": "WJLACOM",
-   "location": "Portland, OR",
-   "salary": null,
-   "date_posted": "2026-11-13",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
-   "sector": "private"
-  },
-  {
    "title": "Hydrologic Technician",
    "employer": "U.S. Army Corps of Engineers",
    "location": "Saint Paul, Minnesota",
@@ -123,11 +73,21 @@
    "sector": "private"
   },
   {
+   "title": "Meteorologist",
+   "employer": "WJLACOM",
+   "location": "Portland, OR",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
+   "sector": "private"
+  },
+  {
    "title": "Radar Meteorologist",
    "employer": "Rainmaker Technology Corporation",
    "location": "El Segundo, CA",
    "salary": null,
-   "date_posted": "2026-11-12",
+   "date_posted": "2026-11-11",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547216080",
    "sector": "private"
@@ -283,16 +243,6 @@
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
    "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-22",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
-   "sector": "private"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
