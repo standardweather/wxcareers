@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-15T16:53+00:00",
- "count": 42,
+ "updated": "2026-11-16T20:10+00:00",
+ "count": 48,
  "jobs": [
+  {
+   "title": "Meteorologist",
+   "employer": "WDIV",
+   "location": "Detroit, MI",
+   "salary": null,
+   "date_posted": "2026-11-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
+   "sector": "TV"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-16",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
+  {
+   "title": "METEOROLOGICAL TECHNICIAN",
+   "employer": "Air National Guard Units",
+   "location": "Niagara Falls, New York",
+   "salary": "Starting at $64,543 Per year (GS 9)",
+   "date_posted": "2026-11-16",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/892947000",
+   "sector": "military"
+  },
   {
    "title": "Meteorologist",
    "employer": "Univision Communications Inc.",
@@ -43,16 +103,6 @@
    "sector": "TV"
   },
   {
-   "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
-   "employer": "The Walt Disney Co",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-13",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547398512",
-   "sector": "TV"
-  },
-  {
    "title": "Hydrologic Technician",
    "employer": "U.S. Army Corps of Engineers",
    "location": "Saint Paul, Minnesota",
@@ -71,6 +121,16 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8367396",
    "sector": "private"
+  },
+  {
+   "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
+   "employer": "The Walt Disney Co",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-12",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547398512",
+   "sector": "TV"
   },
   {
    "title": "Meteorologist",
@@ -255,6 +315,16 @@
    "sector": "private"
   },
   {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private"
+  },
+  {
    "title": "Meteorologist (Contract)",
    "employer": "The Weather Company",
    "location": "Remote UK",
@@ -283,16 +353,6 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8038098003?gh_jid=8038098003",
    "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "WDIV",
-   "location": "Detroit, MI",
-   "salary": null,
-   "date_posted": "2026-10-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
-   "sector": "TV"
   },
   {
    "title": "Meteorological Data Scientist",
