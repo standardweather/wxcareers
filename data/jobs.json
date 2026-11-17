@@ -1,55 +1,45 @@
 {
- "updated": "2026-11-16T20:10+00:00",
- "count": 48,
+ "updated": "2026-11-17T19:00+00:00",
+ "count": 41,
  "jobs": [
   {
    "title": "Meteorologist",
    "employer": "WDIV",
    "location": "Detroit, MI",
    "salary": null,
-   "date_posted": "2026-11-16",
+   "date_posted": "2026-11-17",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
    "sector": "TV"
   },
   {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
+   "title": "Part-Time Weather Forecaster II",
+   "employer": "RedTown Technical Services, LLC",
+   "location": "Jacksonville, FL",
    "salary": null,
-   "date_posted": "2026-11-16",
+   "date_posted": "2026-11-17",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-16",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-16",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547975714",
    "sector": "private"
   },
   {
    "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
+   "employer": "Hudson River Trading LLC",
+   "location": "Chicago, IL",
    "salary": null,
-   "date_posted": "2026-11-16",
+   "date_posted": "2026-11-17",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548032900",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist (Weekday/Mornings) - Wtvm",
+   "employer": "Gray Television",
+   "location": "Columbus, GA",
+   "salary": null,
+   "date_posted": "2026-11-17",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547995493",
    "sector": "TV"
   },
   {
@@ -61,16 +51,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/892947000",
    "sector": "military"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Univision Communications Inc.",
-   "location": "Chicago, IL",
-   "salary": null,
-   "date_posted": "2026-11-14",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547668204",
-   "sector": "private"
   },
   {
    "title": "Air Quality Meteorologist / Forecaster (EHM II)",
@@ -173,36 +153,6 @@
    "sector": "energy"
   },
   {
-   "title": "Meteorologist/Weather Forecaster - Kosa",
-   "employer": "Gray Television",
-   "location": "Odessa, TX",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547107429",
-   "sector": "TV"
-  },
-  {
-   "title": "Chief Meteorologist",
-   "employer": "Nexstar",
-   "location": "Lubbock, TX",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547107103",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Federal Emergency Management Agency",
-   "location": "Miami, FL",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547079743",
-   "sector": "federal"
-  },
-  {
    "title": "Meteorological Technician-Direct Hire Authority",
    "employer": "Air Force Materiel Command",
    "location": "Edwards AFB, California + 5 location(s)",
@@ -285,16 +235,6 @@
    "sector": "private"
   },
   {
-   "title": "Storm Warning Meteorologist",
-   "employer": "AccuWeather",
-   "location": "Wichita, KS",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8288794",
-   "sector": "private"
-  },
-  {
    "title": "Meteorologist",
    "employer": "WJXT",
    "location": "Jacksonville, FL",
@@ -312,16 +252,6 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
