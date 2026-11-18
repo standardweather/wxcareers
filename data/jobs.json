@@ -1,15 +1,115 @@
 {
- "updated": "2026-11-17T19:00+00:00",
- "count": 41,
+ "updated": "2026-11-18T18:44+00:00",
+ "count": 46,
  "jobs": [
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "WJXT",
+   "location": "Jacksonville, FL",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
+   "sector": "TV"
+  },
   {
    "title": "Meteorologist",
    "employer": "WDIV",
    "location": "Detroit, MI",
    "salary": null,
-   "date_posted": "2026-11-17",
+   "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
+   "sector": "TV"
+  },
+  {
+   "title": "Weather Forecaster/Observer-Whidbey Island, WA",
+   "employer": "RedTown Technical Services, LLC",
+   "location": "Oak Harbor, WA",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548139334",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist - KOSA",
+   "employer": "GRAY TELEVISION GROUP INC",
+   "location": "Odessa, TX",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548279428",
+   "sector": "TV"
+  },
+  {
+   "title": "Hydro Forecasting Meteorologist - Clean Energy Research Lead",
+   "employer": "American Meteorological Society, Inc.",
+   "location": "Portland, OR",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548223501",
+   "sector": "energy"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Nexstar",
+   "location": "Roanoke, VA",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548171688",
+   "sector": "TV"
+  },
+  {
+   "title": "Chief Meteorologist",
+   "employer": "Nexstar",
+   "location": "Webb, AL",
+   "salary": null,
+   "date_posted": "2026-11-18",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548171678",
    "sector": "TV"
   },
   {
@@ -103,56 +203,6 @@
    "sector": "private"
   },
   {
-   "title": "Meteorologist - Off Air - ABC News (As-Needed) (Expression of Interest)",
-   "employer": "The Walt Disney Co",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547398512",
-   "sector": "TV"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "WJLACOM",
-   "location": "Portland, OR",
-   "salary": null,
-   "date_posted": "2026-11-12",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547368069",
-   "sector": "private"
-  },
-  {
-   "title": "Radar Meteorologist",
-   "employer": "Rainmaker Technology Corporation",
-   "location": "El Segundo, CA",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547216080",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist III",
-   "employer": "Nexstar Media Group Inc",
-   "location": "Lubbock, TX",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547148597",
-   "sector": "TV"
-  },
-  {
-   "title": "Energy and Climate Analyst",
-   "employer": "RTI International",
-   "location": "San Francisco, CA",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547121393",
-   "sector": "energy"
-  },
-  {
    "title": "Meteorological Technician-Direct Hire Authority",
    "employer": "Air Force Materiel Command",
    "location": "Edwards AFB, California + 5 location(s)",
@@ -235,16 +285,6 @@
    "sector": "private"
   },
   {
-   "title": "Meteorologist",
-   "employer": "WJXT",
-   "location": "Jacksonville, FL",
-   "salary": null,
-   "date_posted": "2026-11-02",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
-   "sector": "TV"
-  },
-  {
    "title": "Contributing Meteorologist (Contract)",
    "employer": "The Weather Company",
    "location": "United States",
@@ -252,6 +292,16 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
+   "sector": "private"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-10-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
    "sector": "private"
   },
   {
