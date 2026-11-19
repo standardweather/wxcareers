@@ -1,13 +1,23 @@
 {
- "updated": "2026-11-18T18:44+00:00",
- "count": 46,
+ "updated": "2026-11-19T18:55+00:00",
+ "count": 47,
  "jobs": [
+  {
+   "title": "Part-time Meteorologist",
+   "employer": "TEGNA Inc",
+   "location": "Cleveland, OH",
+   "salary": null,
+   "date_posted": "2026-11-19",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548395190",
+   "sector": "TV"
+  },
   {
    "title": "Computational Atmospheric Scientist",
    "employer": "Aligned Labs Inc",
    "location": "New York, NY",
    "salary": null,
-   "date_posted": "2026-11-18",
+   "date_posted": "2026-11-19",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
    "sector": "private"
@@ -17,7 +27,7 @@
    "employer": "Ocean Conservancy",
    "location": "Washington, DC",
    "salary": null,
-   "date_posted": "2026-11-18",
+   "date_posted": "2026-11-19",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
    "sector": "private"
@@ -27,7 +37,7 @@
    "employer": "Lynker",
    "location": "College Park, MD",
    "salary": null,
-   "date_posted": "2026-11-18",
+   "date_posted": "2026-11-19",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
    "sector": "private"
@@ -37,10 +47,20 @@
    "employer": "Hearst Television, Inc.",
    "location": "Dallas, TX",
    "salary": null,
-   "date_posted": "2026-11-18",
+   "date_posted": "2026-11-19",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
    "sector": "TV"
+  },
+  {
+   "title": "LEAD METEOROLOGICAL TECHNICIAN",
+   "employer": "Air Force Special Operations Command",
+   "location": "Hurlburt Field, Florida",
+   "salary": "Starting at $74,678 Per year (GS 11)",
+   "date_posted": "2026-11-19",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/893365900",
+   "sector": "military"
   },
   {
    "title": "Meteorologist",
@@ -160,16 +180,6 @@
    "date_posted": "2026-11-13",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
-   "sector": "private"
-  },
-  {
-   "title": "Interdisciplinary Space Scientist/Physicist/Meteorologist",
-   "employer": "United States Fleet Forces Command",
-   "location": "Monterey, CA",
-   "salary": null,
-   "date_posted": "2026-11-13",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547480721",
    "sector": "private"
   },
   {
