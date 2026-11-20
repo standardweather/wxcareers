@@ -84,8 +84,9 @@ def main():
     live=[j for j in live if not EXCLUDE_TITLES.search(j['title'])]
     for j in live:
         j.setdefault('sector',sector(j['title'],j['employer']))
+        j['state']=state_of(j['location'])
         for e,t,sec in SECTOR_OVERRIDES:
-            if e.search(j['employer']) and t.search(j['title']): j['sector']=sec; j['state']=state_of(j['location'])
+            if e.search(j['employer']) and t.search(j['title']): j['sector']=sec
     live.sort(key=lambda j:j['date_posted'] or '',reverse=True)
     out=dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='minutes'),count=len(live),jobs=live)
     import os
