@@ -1,7 +1,40 @@
 {
- "updated": "2026-11-19T18:55+00:00",
- "count": 47,
+ "updated": "2026-11-20T18:26+00:00",
+ "count": 43,
  "jobs": [
+  {
+   "title": "Lead Meteorologist",
+   "employer": "National Oceanic and Atmospheric Administration",
+   "location": "Ruskin, FL",
+   "salary": null,
+   "date_posted": "2026-11-20",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548531717",
+   "sector": "federal",
+   "state": "FL"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Nexstar",
+   "location": "Topeka, KS",
+   "salary": null,
+   "date_posted": "2026-11-20",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548515032",
+   "sector": "TV",
+   "state": "KS"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Sinclair Inc",
+   "location": "Baltimore, MD",
+   "salary": null,
+   "date_posted": "2026-11-20",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548584923",
+   "sector": "TV",
+   "state": "MD"
+  },
   {
    "title": "Part-time Meteorologist",
    "employer": "TEGNA Inc",
@@ -10,47 +43,8 @@
    "date_posted": "2026-11-19",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/548395190",
-   "sector": "TV"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-19",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-19",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-19",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-19",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "OH"
   },
   {
    "title": "LEAD METEOROLOGICAL TECHNICIAN",
@@ -60,7 +54,8 @@
    "date_posted": "2026-11-19",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/893365900",
-   "sector": "military"
+   "sector": "military",
+   "state": "FL"
   },
   {
    "title": "Meteorologist",
@@ -70,7 +65,8 @@
    "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/530543337",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "FL"
   },
   {
    "title": "Meteorologist",
@@ -80,17 +76,8 @@
    "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/532962391",
-   "sector": "TV"
-  },
-  {
-   "title": "Weather Forecaster/Observer-Whidbey Island, WA",
-   "employer": "RedTown Technical Services, LLC",
-   "location": "Oak Harbor, WA",
-   "salary": null,
-   "date_posted": "2026-11-18",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548139334",
-   "sector": "private"
+   "sector": "TV",
+   "state": "MI"
   },
   {
    "title": "Meteorologist - KOSA",
@@ -100,7 +87,8 @@
    "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/548279428",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "TX"
   },
   {
    "title": "Hydro Forecasting Meteorologist - Clean Energy Research Lead",
@@ -110,17 +98,8 @@
    "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/548223501",
-   "sector": "energy"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Nexstar",
-   "location": "Roanoke, VA",
-   "salary": null,
-   "date_posted": "2026-11-18",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548171688",
-   "sector": "TV"
+   "sector": "energy",
+   "state": "OR"
   },
   {
    "title": "Chief Meteorologist",
@@ -130,17 +109,19 @@
    "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/548171678",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "AL"
   },
   {
-   "title": "Part-Time Weather Forecaster II",
-   "employer": "RedTown Technical Services, LLC",
-   "location": "Jacksonville, FL",
+   "title": "Weather Forecaster/Observer-Whidbey Island, WA",
+   "employer": "Atmospheric Science Technology, LLC",
+   "location": "Oak Harbor, WA",
    "salary": null,
-   "date_posted": "2026-11-17",
+   "date_posted": "2026-11-18",
    "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547975714",
-   "sector": "private"
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548139334",
+   "sector": "private",
+   "state": "WA"
   },
   {
    "title": "Meteorologist",
@@ -150,7 +131,8 @@
    "date_posted": "2026-11-17",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/548032900",
-   "sector": "private"
+   "sector": "private",
+   "state": "IL"
   },
   {
    "title": "Meteorologist (Weekday/Mornings) - Wtvm",
@@ -160,7 +142,8 @@
    "date_posted": "2026-11-17",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547995493",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "GA"
   },
   {
    "title": "METEOROLOGICAL TECHNICIAN",
@@ -170,7 +153,8 @@
    "date_posted": "2026-11-16",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/892947000",
-   "sector": "military"
+   "sector": "military",
+   "state": "NY"
   },
   {
    "title": "Air Quality Meteorologist / Forecaster (EHM II)",
@@ -180,7 +164,8 @@
    "date_posted": "2026-11-13",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
-   "sector": "private"
+   "sector": "private",
+   "state": "SC"
   },
   {
    "title": "Weekend Meteorologist / MMJ",
@@ -190,7 +175,8 @@
    "date_posted": "2026-11-13",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/547440048",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "IN"
   },
   {
    "title": "Hydrologic Technician",
@@ -200,7 +186,8 @@
    "date_posted": "2026-11-13",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/892580300",
-   "sector": "military"
+   "sector": "military",
+   "state": "MN"
   },
   {
    "title": "Weather Graphics Production Artist",
@@ -210,7 +197,8 @@
    "date_posted": "2026-11-13",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8367396",
-   "sector": "private"
+   "sector": "private",
+   "state": "PA"
   },
   {
    "title": "Meteorological Technician-Direct Hire Authority",
@@ -220,7 +208,8 @@
    "date_posted": "2026-11-11",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/892368900",
-   "sector": "military"
+   "sector": "military",
+   "state": "CA"
   },
   {
    "title": "Meteorologist I",
@@ -230,7 +219,8 @@
    "date_posted": "2026-11-11",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8354201",
-   "sector": "private"
+   "sector": "private",
+   "state": "PA"
   },
   {
    "title": "Backend Software Engineer, Weather & Aviation",
@@ -262,7 +252,8 @@
    "date_posted": "2026-11-09",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/891992800",
-   "sector": "federal"
+   "sector": "federal",
+   "state": "CO"
   },
   {
    "title": "Weekend Meteorologist",
@@ -272,7 +263,8 @@
    "date_posted": "2026-11-06",
    "source": "iHireBroadcasting",
    "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "VA"
   },
   {
    "title": "Digital Content & Engagement Intern \u2013 Forecasting and Communications",
@@ -282,7 +274,8 @@
    "date_posted": "2026-11-06",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8189209",
-   "sector": "private"
+   "sector": "private",
+   "state": "PA"
   },
   {
    "title": "Senior Lightning Scientist",
@@ -292,7 +285,8 @@
    "date_posted": "2026-11-06",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/7561810",
-   "sector": "private"
+   "sector": "private",
+   "state": "PA"
   },
   {
    "title": "Contributing Meteorologist (Contract)",
@@ -302,17 +296,8 @@
    "date_posted": "2026-10-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270393007",
-   "sector": "private"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-10-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
-   "sector": "private"
+   "sector": "private",
+   "state": "Other"
   },
   {
    "title": "Meteorologist (Contract)",
@@ -322,7 +307,8 @@
    "date_posted": "2026-10-21",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5270411007",
-   "sector": "private"
+   "sector": "private",
+   "state": "Remote"
   },
   {
    "title": "Meteorologist, KGTV",
@@ -332,7 +318,8 @@
    "date_posted": "2026-10-19",
    "source": "Employer careers page",
    "url": "https://scripps.wd115.myworkdayjobs.com/en-US/Scripps_Careers/job/Meteorologist--KGTV_JR036902-1",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "CA"
   },
   {
    "title": "Expert Meteorologist",
@@ -342,7 +329,8 @@
    "date_posted": "2026-10-19",
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8038098003?gh_jid=8038098003",
-   "sector": "private"
+   "sector": "private",
+   "state": "Remote"
   },
   {
    "title": "Meteorological Data Scientist",
@@ -352,7 +340,8 @@
    "date_posted": "2026-10-16",
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8035679003?gh_jid=8035679003",
-   "sector": "private"
+   "sector": "private",
+   "state": "MA"
   },
   {
    "title": "METEOROLOGIST",
@@ -362,7 +351,8 @@
    "date_posted": "2026-10-13",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/888500300",
-   "sector": "military"
+   "sector": "military",
+   "state": "NC"
   },
   {
    "title": "Meteorologist",
@@ -372,7 +362,8 @@
    "date_posted": "2026-10-02",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/887393000",
-   "sector": "federal"
+   "sector": "federal",
+   "state": "AK"
   },
   {
    "title": "Meteorologist",
@@ -382,7 +373,8 @@
    "date_posted": "2026-10-02",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/887393400",
-   "sector": "federal"
+   "sector": "federal",
+   "state": "AL"
   },
   {
    "title": "Senior Manager, Meteorological Technologies",
@@ -392,7 +384,8 @@
    "date_posted": "2026-09-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5175205007",
-   "sector": "private"
+   "sector": "private",
+   "state": "MA"
   },
   {
    "title": "Weather Science Intern",
@@ -402,7 +395,8 @@
    "date_posted": "2026-09-22",
    "source": "Greenhouse (employer careers page)",
    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5209679007",
-   "sector": "private"
+   "sector": "private",
+   "state": "GA"
   },
   {
    "title": "Aviation Meteorologist (Future Talent Pipeline)",
@@ -412,7 +406,8 @@
    "date_posted": "2026-08-21",
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/7930860003?gh_jid=7930860003",
-   "sector": "aviation"
+   "sector": "aviation",
+   "state": "Remote"
   },
   {
    "title": "Chief Meteorologist",
@@ -422,7 +417,8 @@
    "date_posted": "2026-08-03",
    "source": "Greenhouse (employer careers page)",
    "url": "https://boards.greenhouse.io/tomorrow/jobs/7824142003?gh_jid=7824142003",
-   "sector": "private"
+   "sector": "private",
+   "state": "Other"
   },
   {
    "title": "Physical Science",
@@ -432,7 +428,8 @@
    "date_posted": "2026-03-31",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/863324300",
-   "sector": "military"
+   "sector": "military",
+   "state": "Other"
   },
   {
    "title": "Physical Sciences",
@@ -442,7 +439,8 @@
    "date_posted": "2026-03-26",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/862936600",
-   "sector": "military"
+   "sector": "military",
+   "state": "Other"
   },
   {
    "title": "METEOROLOGICAL TECHNICIAN - TITLE 32",
@@ -452,7 +450,8 @@
    "date_posted": "2026-01-02",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/851247100",
-   "sector": "military"
+   "sector": "military",
+   "state": "GA"
   },
   {
    "title": "SUPERVISORY METEOROLOGICAL TECHNICIAN - TITLE 32",
@@ -462,7 +461,8 @@
    "date_posted": "2026-01-02",
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/851076600",
-   "sector": "military"
+   "sector": "military",
+   "state": "GA"
   },
   {
    "title": "Meteorologist - Spectrum News 1",
@@ -472,7 +472,8 @@
    "date_posted": null,
    "source": "Employer careers page",
    "url": "https://jobs.spectrum.com/job/austin/meteorologist-spectrum-news-1/4673/98755779088",
-   "sector": "TV"
+   "sector": "TV",
+   "state": "TX"
   }
  ]
 }
