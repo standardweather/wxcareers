@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-20T18:26+00:00",
- "count": 43,
+ "updated": "2026-11-21T17:14+00:00",
+ "count": 47,
  "jobs": [
+  {
+   "title": "Weekend Meteorologist",
+   "employer": "WSLS",
+   "location": "Roanoke, VA",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
+   "sector": "TV",
+   "state": "VA"
+  },
+  {
+   "title": "Meteorologist (Part-time/Temporary)",
+   "employer": "Nexstar",
+   "location": "Wichita, KS",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548823123",
+   "sector": "TV",
+   "state": "KS"
+  },
+  {
+   "title": "Meteorologist, Nexstar Weather Center",
+   "employer": "Nexstar",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548823118",
+   "sector": "TV",
+   "state": "TX"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private",
+   "state": "TX"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private",
+   "state": "NY"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private",
+   "state": "DC"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private",
+   "state": "MD"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-21",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV",
+   "state": "TX"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Sinclair Inc",
+   "location": "Baltimore, MD",
+   "salary": null,
+   "date_posted": "2026-11-20",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/548584923",
+   "sector": "TV",
+   "state": "MD"
+  },
   {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
@@ -23,17 +122,6 @@
    "url": "https://www.ihirebroadcasting.com/jobs/view/548515032",
    "sector": "TV",
    "state": "KS"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Sinclair Inc",
-   "location": "Baltimore, MD",
-   "salary": null,
-   "date_posted": "2026-11-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548584923",
-   "sector": "TV",
-   "state": "MD"
   },
   {
    "title": "Part-time Meteorologist",
@@ -80,17 +168,6 @@
    "state": "MI"
   },
   {
-   "title": "Meteorologist - KOSA",
-   "employer": "GRAY TELEVISION GROUP INC",
-   "location": "Odessa, TX",
-   "salary": null,
-   "date_posted": "2026-11-18",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548279428",
-   "sector": "TV",
-   "state": "TX"
-  },
-  {
    "title": "Hydro Forecasting Meteorologist - Clean Energy Research Lead",
    "employer": "American Meteorological Society, Inc.",
    "location": "Portland, OR",
@@ -114,7 +191,7 @@
   },
   {
    "title": "Weather Forecaster/Observer-Whidbey Island, WA",
-   "employer": "Atmospheric Science Technology, LLC",
+   "employer": "RedTown Technical Services, LLC",
    "location": "Oak Harbor, WA",
    "salary": null,
    "date_posted": "2026-11-18",
@@ -166,28 +243,6 @@
    "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
    "sector": "private",
    "state": "SC"
-  },
-  {
-   "title": "Weekend Meteorologist / MMJ",
-   "employer": "WTWO",
-   "location": "Farmersburg, IN",
-   "salary": null,
-   "date_posted": "2026-11-13",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547440048",
-   "sector": "TV",
-   "state": "IN"
-  },
-  {
-   "title": "Hydrologic Technician",
-   "employer": "U.S. Army Corps of Engineers",
-   "location": "Saint Paul, Minnesota",
-   "salary": "Starting at $74,101 Per year (GS 10-11)",
-   "date_posted": "2026-11-13",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/892580300",
-   "sector": "military",
-   "state": "MN"
   },
   {
    "title": "Weather Graphics Production Artist",
@@ -254,17 +309,6 @@
    "url": "https://www.usajobs.gov/job/891992800",
    "sector": "federal",
    "state": "CO"
-  },
-  {
-   "title": "Weekend Meteorologist",
-   "employer": "WSLS",
-   "location": "Roanoke, VA",
-   "salary": null,
-   "date_posted": "2026-11-06",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/541315013",
-   "sector": "TV",
-   "state": "VA"
   },
   {
    "title": "Digital Content & Engagement Intern \u2013 Forecasting and Communications",
