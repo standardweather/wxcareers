@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:14+00:00",
- "count": 47,
+ "updated": "2026-11-22T17:42+00:00",
+ "count": 41,
  "jobs": [
   {
    "title": "Weekend Meteorologist",
@@ -37,62 +37,7 @@
   },
   {
    "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
-   "sector": "private",
-   "state": "TX"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private",
-   "state": "NY"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private",
-   "state": "DC"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private",
-   "state": "MD"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV",
-   "state": "TX"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Sinclair Inc",
+   "employer": "Sinclair Broadcast Group, Inc.",
    "location": "Baltimore, MD",
    "salary": null,
    "date_posted": "2026-11-20",
@@ -232,17 +177,6 @@
    "url": "https://www.usajobs.gov/job/892947000",
    "sector": "military",
    "state": "NY"
-  },
-  {
-   "title": "Air Quality Meteorologist / Forecaster (EHM II)",
-   "employer": "State of South Carolina",
-   "location": "Richland, SC",
-   "salary": null,
-   "date_posted": "2026-11-13",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
-   "sector": "private",
-   "state": "SC"
   },
   {
    "title": "Weather Graphics Production Artist",
