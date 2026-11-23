@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-23T12:50+00:00",
- "count": 42,
+ "updated": "2026-11-23T21:57+00:00",
+ "count": 50,
  "jobs": [
+  {
+   "title": "Weather Meteorologist-Per Diem (R50033871)",
+   "employer": "FOX Payroll Services",
+   "location": "Chicago, IL",
+   "salary": null,
+   "date_posted": "2026-11-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549138260",
+   "sector": "TV",
+   "state": "IL"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-11-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private",
+   "state": "TX"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private",
+   "state": "NY"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private",
+   "state": "DC"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private",
+   "state": "MD"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-23",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV",
+   "state": "TX"
+  },
   {
    "title": "Meteorologist/Hydrologist/Physical Scientist",
    "employer": "National Oceanic and Atmospheric Administration",
@@ -12,6 +78,17 @@
    "url": "https://www.usajobs.gov/job/893709100",
    "sector": "federal",
    "state": "AK"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Office of the Chief Economist",
+   "location": "Washington, District of Columbia",
+   "salary": "Starting at $121,785 Per year (GS 13)",
+   "date_posted": "2026-11-23",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/893941500",
+   "sector": "private",
+   "state": "DC"
   },
   {
    "title": "Weekend Meteorologist",
@@ -188,6 +265,17 @@
    "url": "https://www.usajobs.gov/job/892947000",
    "sector": "military",
    "state": "NY"
+  },
+  {
+   "title": "Air Quality Meteorologist / Forecaster (EHM II)",
+   "employer": "State of South Carolina",
+   "location": "Richland, SC",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
+   "sector": "private",
+   "state": "SC"
   },
   {
    "title": "Weather Graphics Production Artist",
