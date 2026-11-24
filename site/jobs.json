@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-23T21:57+00:00",
- "count": 50,
+ "updated": "2026-11-24T20:34+00:00",
+ "count": 41,
  "jobs": [
+  {
+   "title": "Morning Meteorologist",
+   "employer": "Allen Media Broadcasting",
+   "location": "Chico, CA",
+   "salary": null,
+   "date_posted": "2026-11-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549269941",
+   "sector": "TV",
+   "state": "CA"
+  },
+  {
+   "title": "Research & Operations Meteorologist - 142239",
+   "employer": "UC San Diego",
+   "location": "San Diego, CA",
+   "salary": null,
+   "date_posted": "2026-11-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549219346",
+   "sector": "private",
+   "state": "CA"
+  },
+  {
+   "title": "Meteorologist-Temp",
+   "employer": "Univision Communications Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549202835",
+   "sector": "private",
+   "state": "TX"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Office of the Chief Economist",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-24",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549166257",
+   "sector": "private",
+   "state": "DC"
+  },
   {
    "title": "Weather Meteorologist-Per Diem (R50033871)",
    "employer": "FOX Payroll Services",
@@ -14,61 +58,6 @@
    "state": "IL"
   },
   {
-   "title": "Meteorologist",
-   "employer": "StormGeo",
-   "location": "Houston, TX",
-   "salary": null,
-   "date_posted": "2026-11-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
-   "sector": "private",
-   "state": "TX"
-  },
-  {
-   "title": "Computational Atmospheric Scientist",
-   "employer": "Aligned Labs Inc",
-   "location": "New York, NY",
-   "salary": null,
-   "date_posted": "2026-11-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
-   "sector": "private",
-   "state": "NY"
-  },
-  {
-   "title": "Climate Analyst",
-   "employer": "Ocean Conservancy",
-   "location": "Washington, DC",
-   "salary": null,
-   "date_posted": "2026-11-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
-   "sector": "private",
-   "state": "DC"
-  },
-  {
-   "title": "Meteorologist Developer",
-   "employer": "Lynker",
-   "location": "College Park, MD",
-   "salary": null,
-   "date_posted": "2026-11-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
-   "sector": "private",
-   "state": "MD"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hearst Television, Inc.",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-23",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
-   "sector": "TV",
-   "state": "TX"
-  },
-  {
    "title": "Meteorologist/Hydrologist/Physical Scientist",
    "employer": "National Oceanic and Atmospheric Administration",
    "location": "Anchorage, Alaska + 10 location(s)",
@@ -78,17 +67,6 @@
    "url": "https://www.usajobs.gov/job/893709100",
    "sector": "federal",
    "state": "AK"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Office of the Chief Economist",
-   "location": "Washington, District of Columbia",
-   "salary": "Starting at $121,785 Per year (GS 13)",
-   "date_posted": "2026-11-23",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/893941500",
-   "sector": "private",
-   "state": "DC"
   },
   {
    "title": "Weekend Meteorologist",
@@ -212,50 +190,6 @@
    "state": "OR"
   },
   {
-   "title": "Chief Meteorologist",
-   "employer": "Nexstar",
-   "location": "Webb, AL",
-   "salary": null,
-   "date_posted": "2026-11-18",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548171678",
-   "sector": "TV",
-   "state": "AL"
-  },
-  {
-   "title": "Weather Forecaster/Observer-Whidbey Island, WA",
-   "employer": "RedTown Technical Services, LLC",
-   "location": "Oak Harbor, WA",
-   "salary": null,
-   "date_posted": "2026-11-18",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548139334",
-   "sector": "private",
-   "state": "WA"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Hudson River Trading LLC",
-   "location": "Chicago, IL",
-   "salary": null,
-   "date_posted": "2026-11-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548032900",
-   "sector": "private",
-   "state": "IL"
-  },
-  {
-   "title": "Meteorologist (Weekday/Mornings) - Wtvm",
-   "employer": "Gray Television",
-   "location": "Columbus, GA",
-   "salary": null,
-   "date_posted": "2026-11-17",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547995493",
-   "sector": "TV",
-   "state": "GA"
-  },
-  {
    "title": "METEOROLOGICAL TECHNICIAN",
    "employer": "Air National Guard Units",
    "location": "Niagara Falls, New York",
@@ -265,17 +199,6 @@
    "url": "https://www.usajobs.gov/job/892947000",
    "sector": "military",
    "state": "NY"
-  },
-  {
-   "title": "Air Quality Meteorologist / Forecaster (EHM II)",
-   "employer": "State of South Carolina",
-   "location": "Richland, SC",
-   "salary": null,
-   "date_posted": "2026-11-13",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
-   "sector": "private",
-   "state": "SC"
   },
   {
    "title": "Weather Graphics Production Artist",
@@ -311,17 +234,6 @@
    "state": "PA"
   },
   {
-   "title": "Backend Software Engineer, Weather & Aviation",
-   "employer": "Spire Global",
-   "location": "Boulder, Colorado, United States",
-   "salary": null,
-   "date_posted": "2026-11-11",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125",
-   "sector": "private",
-   "state": "CO"
-  },
-  {
    "title": "Software Development Engineer in Test (SDET) \u2013 Weather Platforms",
    "employer": "Spire Global",
    "location": "Boulder, Colorado, United States",
@@ -330,17 +242,6 @@
    "source": "Greenhouse (employer careers page)",
    "url": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
    "sector": "private",
-   "state": "CO"
-  },
-  {
-   "title": "Lead Meteorologist",
-   "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Boulder, Colorado + 9 location(s)",
-   "salary": "Starting at $106,437 Per year (GS 13)",
-   "date_posted": "2026-11-09",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/891992800",
-   "sector": "federal",
    "state": "CO"
   },
   {
