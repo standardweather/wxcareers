@@ -1,7 +1,62 @@
 {
- "updated": "2026-11-24T20:34+00:00",
+ "updated": "2026-11-25T19:51+00:00",
  "count": 41,
  "jobs": [
+  {
+   "title": "Meteorologist",
+   "employer": "U.S. Department of Agriculture",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-25",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549381353",
+   "sector": "federal",
+   "state": "DC"
+  },
+  {
+   "title": "Trading Meteorologist",
+   "employer": "Iberdrola Group",
+   "location": "Portland, OR",
+   "salary": null,
+   "date_posted": "2026-11-25",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549338797",
+   "sector": "private",
+   "state": "OR"
+  },
+  {
+   "title": "Meteorologist - Wlbt",
+   "employer": "Gray Television",
+   "location": "Jackson, MS",
+   "salary": null,
+   "date_posted": "2026-11-25",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549334276",
+   "sector": "TV",
+   "state": "MS"
+  },
+  {
+   "title": "Meteorologist I",
+   "employer": "Nexstar",
+   "location": "Champaign, IL",
+   "salary": null,
+   "date_posted": "2026-11-25",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549333951",
+   "sector": "TV",
+   "state": "IL"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Sinclair Broadcast Group, Inc.",
+   "location": "Reno, NV",
+   "salary": null,
+   "date_posted": "2026-11-25",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549332689",
+   "sector": "TV",
+   "state": "NV"
+  },
   {
    "title": "Morning Meteorologist",
    "employer": "Allen Media Broadcasting",
@@ -36,15 +91,15 @@
    "state": "TX"
   },
   {
-   "title": "Meteorologist",
-   "employer": "Office of the Chief Economist",
-   "location": "Washington, DC",
+   "title": "Storm Warning Meteorologist",
+   "employer": "AccuWeather",
+   "location": "Wichita, KS",
    "salary": null,
    "date_posted": "2026-11-24",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/549166257",
+   "source": "Greenhouse (employer careers page)",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8406616",
    "sector": "private",
-   "state": "DC"
+   "state": "KS"
   },
   {
    "title": "Weather Meteorologist-Per Diem (R50033871)",
@@ -102,48 +157,15 @@
    "state": "TX"
   },
   {
-   "title": "Meteorologist",
-   "employer": "Sinclair Broadcast Group, Inc.",
-   "location": "Baltimore, MD",
-   "salary": null,
-   "date_posted": "2026-11-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548584923",
-   "sector": "TV",
-   "state": "MD"
-  },
-  {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
-   "location": "Ruskin, FL",
-   "salary": null,
+   "location": "Ruskin, Florida + 10 location(s)",
+   "salary": "Starting at $106,437 Per year (GS 13)",
    "date_posted": "2026-11-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548531717",
+   "source": "USAJOBS",
+   "url": "https://www.usajobs.gov/job/893599200",
    "sector": "federal",
    "state": "FL"
-  },
-  {
-   "title": "Meteorologist",
-   "employer": "Nexstar",
-   "location": "Topeka, KS",
-   "salary": null,
-   "date_posted": "2026-11-20",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548515032",
-   "sector": "TV",
-   "state": "KS"
-  },
-  {
-   "title": "Part-time Meteorologist",
-   "employer": "TEGNA Inc",
-   "location": "Cleveland, OH",
-   "salary": null,
-   "date_posted": "2026-11-19",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548395190",
-   "sector": "TV",
-   "state": "OH"
   },
   {
    "title": "LEAD METEOROLOGICAL TECHNICIAN",
@@ -179,17 +201,6 @@
    "state": "MI"
   },
   {
-   "title": "Hydro Forecasting Meteorologist - Clean Energy Research Lead",
-   "employer": "American Meteorological Society, Inc.",
-   "location": "Portland, OR",
-   "salary": null,
-   "date_posted": "2026-11-18",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548223501",
-   "sector": "energy",
-   "state": "OR"
-  },
-  {
    "title": "METEOROLOGICAL TECHNICIAN",
    "employer": "Air National Guard Units",
    "location": "Niagara Falls, New York",
@@ -210,17 +221,6 @@
    "url": "https://job-boards.greenhouse.io/accuweather/jobs/8367396",
    "sector": "private",
    "state": "PA"
-  },
-  {
-   "title": "Meteorological Technician-Direct Hire Authority",
-   "employer": "Air Force Materiel Command",
-   "location": "Edwards AFB, California + 5 location(s)",
-   "salary": "Starting at $61,722 Per year (NJ 3)",
-   "date_posted": "2026-11-11",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/892368900",
-   "sector": "military",
-   "state": "CA"
   },
   {
    "title": "Meteorologist I",
