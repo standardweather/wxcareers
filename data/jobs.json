@@ -1,7 +1,84 @@
 {
- "updated": "2026-11-25T19:51+00:00",
- "count": 41,
+ "updated": "2026-11-26T19:27+00:00",
+ "count": 43,
  "jobs": [
+  {
+   "title": "Storm Warning Meteorologist",
+   "employer": "Accuweather Inc",
+   "location": "Wichita, KS",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549529043",
+   "sector": "private",
+   "state": "KS"
+  },
+  {
+   "title": "Research & Operations Meteorologist",
+   "employer": "University of California",
+   "location": "San Diego, CA",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/549524464",
+   "sector": "academic",
+   "state": "CA"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "StormGeo",
+   "location": "Houston, TX",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/543649824",
+   "sector": "private",
+   "state": "TX"
+  },
+  {
+   "title": "Computational Atmospheric Scientist",
+   "employer": "Aligned Labs Inc",
+   "location": "New York, NY",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/538925245",
+   "sector": "private",
+   "state": "NY"
+  },
+  {
+   "title": "Climate Analyst",
+   "employer": "Ocean Conservancy",
+   "location": "Washington, DC",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/537345094",
+   "sector": "private",
+   "state": "DC"
+  },
+  {
+   "title": "Meteorologist Developer",
+   "employer": "Lynker",
+   "location": "College Park, MD",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/532817889",
+   "sector": "private",
+   "state": "MD"
+  },
+  {
+   "title": "Meteorologist",
+   "employer": "Hearst Television, Inc.",
+   "location": "Dallas, TX",
+   "salary": null,
+   "date_posted": "2026-11-26",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/528371528",
+   "sector": "TV",
+   "state": "TX"
+  },
   {
    "title": "Meteorologist",
    "employer": "U.S. Department of Agriculture",
@@ -69,17 +146,6 @@
    "state": "CA"
   },
   {
-   "title": "Research & Operations Meteorologist - 142239",
-   "employer": "UC San Diego",
-   "location": "San Diego, CA",
-   "salary": null,
-   "date_posted": "2026-11-24",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/549219346",
-   "sector": "private",
-   "state": "CA"
-  },
-  {
    "title": "Meteorologist-Temp",
    "employer": "Univision Communications Inc.",
    "location": "Dallas, TX",
@@ -89,17 +155,6 @@
    "url": "https://www.ihirebroadcasting.com/jobs/view/549202835",
    "sector": "private",
    "state": "TX"
-  },
-  {
-   "title": "Storm Warning Meteorologist",
-   "employer": "AccuWeather",
-   "location": "Wichita, KS",
-   "salary": null,
-   "date_posted": "2026-11-24",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8406616",
-   "sector": "private",
-   "state": "KS"
   },
   {
    "title": "Weather Meteorologist-Per Diem (R50033871)",
@@ -135,28 +190,6 @@
    "state": "VA"
   },
   {
-   "title": "Meteorologist (Part-time/Temporary)",
-   "employer": "Nexstar",
-   "location": "Wichita, KS",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548823123",
-   "sector": "TV",
-   "state": "KS"
-  },
-  {
-   "title": "Meteorologist, Nexstar Weather Center",
-   "employer": "Nexstar",
-   "location": "Dallas, TX",
-   "salary": null,
-   "date_posted": "2026-11-21",
-   "source": "iHireBroadcasting",
-   "url": "https://www.ihirebroadcasting.com/jobs/view/548823118",
-   "sector": "TV",
-   "state": "TX"
-  },
-  {
    "title": "Lead Meteorologist",
    "employer": "National Oceanic and Atmospheric Administration",
    "location": "Ruskin, Florida + 10 location(s)",
@@ -165,17 +198,6 @@
    "source": "USAJOBS",
    "url": "https://www.usajobs.gov/job/893599200",
    "sector": "federal",
-   "state": "FL"
-  },
-  {
-   "title": "LEAD METEOROLOGICAL TECHNICIAN",
-   "employer": "Air Force Special Operations Command",
-   "location": "Hurlburt Field, Florida",
-   "salary": "Starting at $74,678 Per year (GS 11)",
-   "date_posted": "2026-11-19",
-   "source": "USAJOBS",
-   "url": "https://www.usajobs.gov/job/893365900",
-   "sector": "military",
    "state": "FL"
   },
   {
@@ -210,6 +232,17 @@
    "url": "https://www.usajobs.gov/job/892947000",
    "sector": "military",
    "state": "NY"
+  },
+  {
+   "title": "Air Quality Meteorologist / Forecaster (EHM II)",
+   "employer": "State of South Carolina",
+   "location": "Richland, SC",
+   "salary": null,
+   "date_posted": "2026-11-13",
+   "source": "iHireBroadcasting",
+   "url": "https://www.ihirebroadcasting.com/jobs/view/547515437",
+   "sector": "private",
+   "state": "SC"
   },
   {
    "title": "Weather Graphics Production Artist",
@@ -309,17 +342,6 @@
    "url": "https://boards.greenhouse.io/tomorrow/jobs/8038098003?gh_jid=8038098003",
    "sector": "private",
    "state": "Remote"
-  },
-  {
-   "title": "Meteorological Data Scientist",
-   "employer": "Tomorrow.io",
-   "location": "Boston, Massachusetts, United States",
-   "salary": null,
-   "date_posted": "2026-10-16",
-   "source": "Greenhouse (employer careers page)",
-   "url": "https://boards.greenhouse.io/tomorrow/jobs/8035679003?gh_jid=8035679003",
-   "sector": "private",
-   "state": "MA"
   },
   {
    "title": "METEOROLOGIST",
